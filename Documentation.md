@@ -178,25 +178,28 @@ The draft and active status of the table will be based on the catalog of product
 
 1. Select the product table from the list.
 2. Click the pencil icon in the **Action** column.
+![ProductTable](./images/PT7.png)
 3. Update the necessary fields.
 4. Click **Save & Exit** to update the product table details.
-
-Existing tables can be edited.
+![ProductTable](./images/PT8.png)
+5. Existing tables can be edited.
 
 ## Deleting a Product Table
 
 1. Select the product table from the list.
 2. Click the trash can icon in the **Action** column.
+![ProductTable](./images/PT9.png)
 3. Confirm the deletion in the pop-up dialog.
-
-Existing tables can be deleted.
-
+4. Existing tables can be deleted.
+![ProductTable](./images/PT10.png)
 ## Searching for a Product Table
 
 1. Navigate to the **Product Table** tab in the left sidebar.
 2. Use the search bar located at the top right of the Product Table page.
+![ProductTable](./images/PT11.png)
 3. Enter the product table name or part of the name.
 4. The list will be filtered to show matching product tables.
+![ProductTable](./images/PT12.png)
 
 # Roles and Permissions
 
@@ -206,9 +209,11 @@ Assign and manage custom roles and permissions to users in companies.
 
 1. Navigate to the **Roles and Permissions** tab in the left sidebar.
 2. Select the company from the list.
+![RolesPermissions](./images/RP1.png)
 3. Select **Manage Permissions** adjacent to the user whose permissions you intend to modify.
 4. You will be redirected to the Manage Permissions page.
-
+![RolesPermissions](./images/RP2.png)
+![RolesPermissions](./images/RP3.png)
 ## Permissions Overview
 
 ### Dashboard Controls
@@ -218,14 +223,15 @@ Assign and manage custom roles and permissions to users in companies.
 ### Permissions Controls
 
 - **Disallow Checkout**: This restricts the user from placing orders.
+![RolesPermissions](./images/RP5.png)
 - **Delete Cart**: This will allow the user to delete the shared or requested cart from the list.
 - **Use Credit to Place Order**: This allows the user to place orders using credit.
 - **Cart Approver**: This allows the user to approve or reject carts requested by other company members.
-  
+  **View User**: User can view company members.
   **Note**: Credit limit will be assigned from BigCommerce.
 
 ### Cart Controls
-
+![RolesPermissions](./images/RP6.png)
 - **Manage Purchase Limit**: This allows the user to manage the purchase limits of other company members.
 - **Share a Cart**: This allows users to share carts with other company members.
 - **Load Cart**: This allows the user to load carts shared by other company members.
@@ -233,7 +239,7 @@ Assign and manage custom roles and permissions to users in companies.
 - **View User**: User can view company members.
 
 Adjust the permissions as needed by checking or unchecking the boxes next to each permission.
-
+![RolesPermissions](./images/RP7.png)
 Click **Apply Changes** to save the updated permissions.
 
 # Appearance Settings
@@ -243,6 +249,7 @@ Control the visual appearance of the company dashboard and product tables.
 ## Customizing Appearance Settings
 
 1. Navigate to the **Appearance Settings** tab in the left sidebar.
+![AppearanceSettings](./images/as1.png)
 2. Customize the global settings and product table settings to align with your branding.
 
 ### Global Settings
@@ -250,5 +257,7 @@ Control the visual appearance of the company dashboard and product tables.
 
 ### Product Table Settings
 - Adjust the color for headings, fonts, subheadings, search boxes, filters, and other elements related to the product table.
+![AppearanceSettings](./images/as2.png)
 
 3. Click **Save Settings** to apply your changes.
+
