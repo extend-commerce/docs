@@ -260,5 +260,3 @@ Control the visual appearance of the company dashboard and product tables.
 ![AppearanceSettings](./images/as2.png)
 
 3. Click **Save Settings** to apply your changes.
-
-TEST tes test
