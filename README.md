@@ -1,5 +1,5 @@
 # Mintlify Starter Kit
-# Testing
+# Madiha Testing
 
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
