@@ -55,7 +55,7 @@ Extend Commerce offers a variety of features designed to streamline the manageme
 
 1. Navigate to the **Company** tab in the right sidebar.
 2. Click the **Add New Company** button.
-
+![Compnay](./images/as1.png)
 3. Fill in the necessary details such as the company name.
 4. Click **Save Company** to add the company.
 
