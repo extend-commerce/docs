@@ -23,23 +23,23 @@ To install and use the Extend Commerce application, you need access to the BigCo
 
 ## Post Installation
 
-### Go to your BigCommerce Admin Dashboard
-- Navigate to `Apps`.
-- You will find the recently installed application.
+**Go to your BigCommerce Admin Dashboard → Apps → There you will find the recently installed application.**
 
-### Launch the App
+**1. Launch the App**
 - After installation, click to launch the app.
 - The app will now be visible in the `My Apps` section.
+
+**2. Open Extend Commerce (Application)**
 - Click on the **Extend Commerce** app to open the Application’s Dashboard.
 
 ## Application Overview
 
 The dashboard is the main interface where you can access all the features of Extend Commerce. It includes the following sections:
 
-- **Company**: Create and add new companies, manage companies, and view details about each company.
-- **Product Table**: Enable functions to add, edit, and manage various Product Tables. Additionally, facilitates the copying of short codes from tables, which can then be pasted into the BigCommerce Web Page Editor, rendering the Product Table on the desired webpage.
-- **Appearance Settings**: Customize the appearance of the Product Table from this feature tab.
-- **Roles and Permissions**: Define and assign different roles and permissions to the users for different companies.
+- **1. Company**: Create and add new companies, manage companies, and view details about each company.
+- **2. Product Table**: Enable functions to add, edit, and manage various Product Tables. Additionally, facilitates the copying of short codes from tables, which can then be pasted into the BigCommerce Web Page Editor, rendering the Product Table on the desired webpage.
+- **3. Appearance Settings**: Customize the appearance of the Product Table from this feature tab.
+- **4. Roles and Permissions**: Define and assign different roles and permissions to the users for different companies.
 
 ## Feature Benefits
 
