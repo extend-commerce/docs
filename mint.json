@@ -28,11 +28,11 @@
   "tabs": [
     {
       "name": "BigCommerce",
-      "url": "big-commerce"
+      "url": "big-commerce/introduction"
     },
     {
       "name": "Shopify",
-      "url": "shopify"
+      "url": "shopify/introduction"
     }      
   ],
   "anchors": [
