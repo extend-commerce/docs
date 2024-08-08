@@ -15,7 +15,7 @@ Assign and manage custom roles and permissions to users in companies.
 
 ### Dashboard Controls
 ![RolesPermissions](./images/ViewOrder.png)
-- **View Orders**: User can view company orders.
+1. **View Orders**: User can view company orders.
 
 ### Permissions Controls
 
