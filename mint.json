@@ -79,6 +79,12 @@
       ]
     },
     {
+      "group": "Shopify API Documentation",
+      "pages": [
+        "shopify-api-reference/introduction"
+      ]
+    },
+    {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",
