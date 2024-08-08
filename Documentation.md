@@ -50,7 +50,8 @@ Extend Commerce offers a variety of features designed to streamline the manageme
 - **User Role Management Permissions**: View orders, view users, delete cart, use credit to place orders, share a cart, load cart, cart approver, disallow checkout, manage purchase limit, cart requester.
 - **Company Users Purchasing & Approvals**: Set purchase limits, restrict volumes, fine-tune permissions, implement approval workflows, and manage budgets efficiently for individual users.
 - **Customizable Appearance for Product Table**: Enable adjustments to the application's color scheme through global settings (including buttons, tabs, checkboxes, text fields, and dropdowns) and product table-specific settings (such as headings, fonts, subheadings, search boxes, and filters) to achieve a cohesive look.
-
+## Company Management
+Create and manage companies, to group customer user accounts.
 # Adding a New Company
 
 1. Navigate to the **Company** tab in the right sidebar.
