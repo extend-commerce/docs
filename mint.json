@@ -22,29 +22,24 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Website",
+    "url": "https://extendcommerce.com"
   },
   "tabs": [
     {
-      "name": "API Reference Test1",
-      "url": "api-reference"
+      "name": "BigCommerce",
+      "url": "big-commerce"
     },
     {
-      "name": "Shopify API Reference",
-      "url": "shopify-api-reference"
+      "name": "Shopify",
+      "url": "shopify"
     }      
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "discord",
+      "url": "https://discord.com/channels/1270051132315533392/1270051883704127548"
     },
     {
       "name": "Blog",
@@ -73,15 +68,15 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "BigCommerce",
       "pages": [
-        "api-reference/introduction"
+        "big-commerce/introduction"
       ]
     },
     {
-      "group": "Shopify API Documentation",
+      "group": "Shopify",
       "pages": [
-        "shopify-api-reference/introduction"
+        "shopify/introduction"
       ]
     },
     {
@@ -94,8 +89,7 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "linkedin": "https://www.linkedin.com/company/codup",
+    "x": "https://twitter.com/codup_co"
   }
 }
