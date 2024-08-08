@@ -1,6 +1,6 @@
 # Getting Started
 
-A guide to install the Extend Commerce app and an overview of the features. (updated)
+A guide to install the Extend Commerce app and an overview of the features.
 
 ## Prerequisites
 
