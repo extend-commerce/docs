@@ -25,6 +25,9 @@
     "name": "Website",
     "url": "https://extendcommerce.com"
   },
+  "primaryTab": {
+    "name": "BigCommerce",
+  },
   "tabs": [
     {
       "name": "BigCommerce",
