@@ -54,7 +54,14 @@
     {
       "group": "BigCommerce",
       "pages": [
-        "big-commerce/introduction"
+        "big-commerce/introduction",
+        "big-commerce/Getting_Started",
+        "big-commerce/BigCommerce_Admin",
+        "big-commerce/Company_Management",
+        "big-commerce/Appearance_Settings",
+        "big-commerce/Storefront",
+        "big-commerce/Customizations",
+        "big-commerce/Extensions"
       ]
     },
     {
