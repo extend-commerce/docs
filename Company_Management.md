@@ -9,7 +9,7 @@ Create and manage companies, to group customer user accounts.
 4. Click **Save Company** to add the company.
 ![Compnay](./images/company2.png)
 
-BigCommerce Admin also has the authority to edit, update, and delete existing companies.
+5.BigCommerce Admin also has the authority to edit, update, and delete existing companies.
 ![Compnay](./images/company3.png)
 ## Editing a Company
 
