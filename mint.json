@@ -22,29 +22,27 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Website",
+    "url": "https://extendcommerce.com"
+  },
+  "primaryTab": {
+    "name": "BigCommerce"
   },
   "tabs": [
     {
-      "name": "API Reference Test1",
-      "url": "api-reference"
+      "name": "BigCommerce",
+      "url": "big-commerce"
     },
     {
-      "name": "Shopify API Reference",
-      "url": "shopify-api-reference"
+      "name": "Shopify",
+      "url": "shopify"
     }      
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "discord",
+      "url": "https://discord.com/channels/1270051132315533392/1270051883704127548"
     },
     {
       "name": "Blog",
@@ -54,16 +52,21 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "BigCommerce",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "big-commerce/Getting_Started",
+        "big-commerce/Company_Management",
+        "big-commerce/User_Management",
+        "big-commerce/Order_Management",
+        "big-commerce/Product_Table",
+        "big-commerce/Roles_and_Permissions",
+        "big-commerce/Appearance_Settings"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Shopify",
       "pages": [
+
         "essentials/markdown",
         "essentials/code",
         "essentials/images",
@@ -91,12 +94,12 @@
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
+        "shopify/introduction"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "linkedin": "https://www.linkedin.com/company/codup",
+    "x": "https://twitter.com/codup_co"
   }
 }
