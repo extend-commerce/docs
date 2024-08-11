@@ -76,6 +76,12 @@
         "shopify/Roles_and_Permissions",
         "shopify/Appearance_Settings"
       ]
+    }, 
+    {
+      "group": "Home",
+      "pages": [
+        "./Home"
+      ]
     }
   ],
   "footerSocials": {
