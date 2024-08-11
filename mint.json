@@ -31,11 +31,11 @@
     },
   "tabs": [
     {
-      "name": "BigCommerce",
+      "name": "BigCommerce1",
       "url": "big-commerce"
     },
     {
-      "name": "BigCommerce",
+      "name": "BigCommerce2",
       "url": "big-commerce"
     } 
   ],
@@ -51,14 +51,33 @@
       "url": "https://mintlify.com/blog"
     }
   ],
+
   "navigation": [
     {
-        "group": "Getting Started",
-        "pages": ["quickstart"]
+      "group": "BigCommerce1",
+      "pages": [
+        "big-commerce/Getting_Started",
+        "big-commerce/Company_Management",
+        "big-commerce/User_Management",
+        "big-commerce/Order_Management",
+        "big-commerce/Product_Table",
+        "big-commerce/Roles_and_Permissions",
+        "big-commerce/Appearance_Settings"
+      ]
+    },
+    {
+      "group": "BigCommerce2",
+      "pages": [
+        "big-commerce/Getting_Started",
+        "big-commerce/Company_Management",
+        "big-commerce/User_Management",
+        "big-commerce/Order_Management",
+        "big-commerce/Product_Table",
+        "big-commerce/Roles_and_Permissions",
+        "big-commerce/Appearance_Settings"
+      ]
     }
-]
-
-,
+  ],
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/codup",
     "x": "https://twitter.com/codup_co"
