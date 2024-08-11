@@ -27,7 +27,8 @@
   },
   "primaryTab": 
     {
-      "name": "Home"
+      "name": "Home",
+      "url": "/"
     },
   "tabs": [
     {
