@@ -31,6 +31,10 @@
     },
   "tabs": [
     {
+      "name": "Home",
+      "url": "/"
+    },
+    {
       "name": "BigCommerce",
       "url": "big-commerce"
     },
