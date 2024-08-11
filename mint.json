@@ -31,7 +31,7 @@
     },
   "tabs": [
     {
-      "name": "BigCommerce1",
+      "name": "BigCommerce",
       "url": "big-commerce"
     },
     {
@@ -54,7 +54,7 @@
 
   "navigation": [
     {
-      "group": "BigCommerce1",
+      "group": "BigCommerce",
       "pages": [
         "big-commerce/Getting_Started",
         "big-commerce/Company_Management",
