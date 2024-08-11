@@ -25,21 +25,18 @@
     "name": "Website",
     "url": "https://extendcommerce.com"
   },
-  "primaryTab":[ 
+  "primaryTab": 
     {
-    "name": "BigCommerce"
-},
-{
-    "name": "Shopifyy"
-  }],
+      "name": "BigCommerce"
+    },
   "tabs": [
     {
       "name": "BigCommerce",
       "url": "big-commerce"
     },
     {
-      "name": "Shopifyy",
-      "url": "shopifyy"
+      "name": "Shopify",
+      "url": "shopify"
     }      
   ],
   "anchors": [
@@ -68,7 +65,7 @@
       ]
     },
     {
-      "group": "Shopifyy",
+      "group": "Shopify",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -99,7 +96,6 @@
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
-      
       ]
     }
   ],
