@@ -54,6 +54,12 @@
 
   "navigation": [
     {
+      "group": "Home",
+      "pages": [
+        "./Home"
+      ]
+    },
+    {
       "group": "BigCommerce",
       "pages": [
         "big-commerce/Getting_Started",
@@ -75,12 +81,6 @@
         "shopify/Product_Table",
         "shopify/Roles_and_Permissions",
         "shopify/Appearance_Settings"
-      ]
-    }, 
-    {
-      "group": "Home",
-      "pages": [
-        "./Home"
       ]
     }
   ],
