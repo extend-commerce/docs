@@ -17,10 +17,6 @@
   },
   "topbarLinks": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
       "name": "Support",
       "url": "mailto:support.extendcommerce.com"
     }
