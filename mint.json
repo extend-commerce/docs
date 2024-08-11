@@ -34,8 +34,8 @@
       "url": "big-commerce"
     },
     {
-      "name": "Shopify",
-      "url": "shopify"
+      "name": "Shopifyy",
+      "url": "shopifyy"
     }      
   ],
   "anchors": [
@@ -66,11 +66,12 @@
     {
       "group": "Shopifyy",
       "pages": [
-
         "essentials/markdown",
         "essentials/code",
         "essentials/images",
         "essentials/settings",
+        "big-commerce/Order_Management",
+        "big-commerce/Product_Table",
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
