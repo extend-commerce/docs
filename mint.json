@@ -35,8 +35,8 @@
       "url": "big-commerce"
     },
     {
-      "name": "Shopify",
-      "url": "shopify"
+      "name": "BigCommerce",
+      "url": "big-commerce"
     } 
   ],
   "anchors": [
@@ -64,7 +64,18 @@
         "big-commerce/Appearance_Settings"
       ]
     },
-
+    {
+      "group": "BigCommercee",
+      "pages": [
+        "big-commerce/Getting_Started",
+        "big-commerce/Company_Management",
+        "big-commerce/User_Management",
+        "big-commerce/Order_Management",
+        "big-commerce/Product_Table",
+        "big-commerce/Roles_and_Permissions",
+        "big-commerce/Appearance_Settings"
+      ]
+    },
     {
       "group": "API Documentation",
       "pages": [
