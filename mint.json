@@ -53,51 +53,12 @@
   ],
   "navigation": [
     {
-      "group": "BigCommercee",
-      "pages": [
-        "big-commerce/Getting_Started",
-        "big-commerce/Company_Management",
-        "big-commerce/User_Management",
-        "big-commerce/Order_Management",
-        "big-commerce/Product_Table",
-        "big-commerce/Roles_and_Permissions",
-        "big-commerce/Appearance_Settings"
-      ]
-    },
-    {
-      "group": "BigCommercee",
-      "pages": [
-        "big-commerce/Getting_Started",
-        "big-commerce/Company_Management",
-        "big-commerce/User_Management",
-        "big-commerce/Order_Management",
-        "big-commerce/Product_Table",
-        "big-commerce/Roles_and_Permissions",
-        "big-commerce/Appearance_Settings"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Shopify API Documentation",
-      "pages": [
-        "shopify-api-reference/introduction",
-        "Extend-api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
+        "group": "Getting Started",
+        "pages": ["quickstart"]
     }
-  ],
+]
+
+,
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/codup",
     "x": "https://twitter.com/codup_co"
