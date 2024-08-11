@@ -35,8 +35,8 @@
       "url": "big-commerce"
     },
     {
-      "name": "BigCommerce2",
-      "url": "big-commerce"
+      "name": "Shopify",
+      "url": "shopify"
     } 
   ],
   "anchors": [
@@ -66,15 +66,15 @@
       ]
     },
     {
-      "group": "BigCommerce2",
+      "group": "Shopify",
       "pages": [
-        "big-commerce/Getting_Started",
-        "big-commerce/Company_Management",
-        "big-commerce/User_Management",
-        "big-commerce/Order_Management",
-        "big-commerce/Product_Table",
-        "big-commerce/Roles_and_Permissions",
-        "big-commerce/Appearance_Settings"
+        "shopify/Getting_Started",
+        "shopify/Company_Management",
+        "shopify/User_Management",
+        "shopify/Order_Management",
+        "shopify/Product_Table",
+        "shopify/Roles_and_Permissions",
+        "shopify/Appearance_Settings"
       ]
     }
   ],
