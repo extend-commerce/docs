@@ -27,17 +27,13 @@
   },
   "primaryTab": 
     {
-      "name": "Shopify"
+      "name": "BigCommerce"
     },
   "tabs": [
     {
-      "name": "BigCommercee",
+      "name": "BigCommerce",
       "url": "big-commerce"
-    },
-    {
-      "name": "Shopify",
-      "url": "shopify"
-    }      
+    } 
   ],
   "anchors": [
     {
@@ -64,19 +60,7 @@
         "big-commerce/Appearance_Settings"
       ]
     },
-    {
-      "group": "Shopify",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "big-commerce/Order_Management",
-        "big-commerce/Product_Table",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
+
     {
       "group": "API Documentation",
       "pages": [
