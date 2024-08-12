@@ -1,6 +1,6 @@
 
 Create and manage companies, to group customer user accounts.
-# Adding a New Company
+## Adding a New Company
 
 1. Navigate to the **Company** tab in the right sidebar.
 2. Click the **Add New Company** button.
