@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/logo/EC_dark.svg",
+    "light": "/logo/EC_light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -18,18 +18,16 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support.extendcommerce.com"
+      "url": "mailto:support@extendcommerce.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Website",
     "url": "https://extendcommerce.com"
   },
-  "primaryTab": 
-    {
-      "name": "Home",
-      "url": "/"
-    },
+  "primaryTab": {
+    "name": "Home"
+  },
   "tabs": [
     {
       "name": "Home",
@@ -37,12 +35,12 @@
     },
     {
       "name": "BigCommerce",
-      "url": "big-commerce"
+      "url": "bigcommerce"
     },
     {
       "name": "Shopify",
       "url": "shopify"
-    } 
+    }
   ],
   "anchors": [
     {
@@ -51,12 +49,16 @@
       "url": "https://discord.com/channels/1270051132315533392/1270051883704127548"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Shopify App",
+      "icon": "Shopify",
+      "url": "https://apps.shopify.com/product-table"
+    },
+    {
+      "name": "BigCommerce App",
+      "icon": "store",
+      "url": "https://www.bigcommerce.com/apps/extend-commerce-beta/"
     }
   ],
-
   "navigation": [
     {
       "group": "Home",
@@ -67,13 +69,13 @@
     {
       "group": "BigCommerce",
       "pages": [
-        "big-commerce/Getting_Started",
-        "big-commerce/Company_Management",
-        "big-commerce/User_Management",
-        "big-commerce/Order_Management",
-        "big-commerce/Product_Table",
-        "big-commerce/Roles_and_Permissions",
-        "big-commerce/Appearance_Settings"
+        "bigcommerce/Getting_Started",
+        "bigcommerce/Company_Management",
+        "bigcommerce/User_Management",
+        "bigcommerce/Order_Management",
+        "bigcommerce/Product_Table",
+        "bigcommerce/Roles_and_Permissions",
+        "bigcommerce/Appearance_Settings"
       ]
     },
     {
@@ -92,5 +94,10 @@
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/codup",
     "x": "https://twitter.com/codup_co"
+  },
+  "analytics": {
+    "gtm": {
+      "tagId": "GTM-W6JVLLK9"
+    }
   }
 }
