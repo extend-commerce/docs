@@ -9,17 +9,17 @@ To install and use the Extend Commerce application, you need access to the BigCo
 ## Installation Guide
 
 **1. Start the Installation**
-- [Click here to start the installation.](#)
-- Ensure you are logged into your BigCommerce store as a Store Admin.
+• [Click here to start the installation.](#)
+• Ensure you are logged into your BigCommerce store as a Store Admin.
 
 **2.  Access the Marketplace**
-- In the BigCommerce menu, navigate to `Apps > Marketplace`.
+• In the BigCommerce menu, navigate to `Apps > Marketplace`.
 
 **3.  Search for Extend Commerce**
-- Use the search bar to find **Extend Commerce**.
+•Use the search bar to find **Extend Commerce**.
 
 **4.  Install the App**
-- Click **GET THIS APP** and follow the instructions to install the application.
+• Click **GET THIS APP** and follow the instructions to install the application.
 
 ## Post Installation
 
