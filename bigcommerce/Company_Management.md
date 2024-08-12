@@ -1,4 +1,4 @@
-## Company Management
+
 Create and manage companies, to group customer user accounts.
 # Adding a New Company
 

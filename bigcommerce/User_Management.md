@@ -1,4 +1,4 @@
-# User Management
+
 
 How to create and manage users in companies.
 

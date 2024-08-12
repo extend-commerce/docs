@@ -1,4 +1,4 @@
-# Appearance Settings
+
 
 Control the visual appearance of the company dashboard and product tables.
 

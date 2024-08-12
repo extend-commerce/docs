@@ -1,4 +1,4 @@
-# Product Table
+
 
 Create, edit, delete, and publish custom product tables, anywhere on your storefront.
 

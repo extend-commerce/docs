@@ -1,4 +1,4 @@
-# Getting Started
+
 
 A guide to install the Extend Commerce app and an overview of the features.
 

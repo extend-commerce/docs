@@ -1,4 +1,4 @@
-# Viewing Orders
+
 
 1. Navigate to the company name from the company list.
 ![Orders](./images/OM1.png)
