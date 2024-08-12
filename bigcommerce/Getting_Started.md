@@ -8,18 +8,18 @@ To install and use the Extend Commerce application, you need access to the BigCo
 
 ## Installation Guide
 
-**1. Start the Installation**</br>
-* [Click here to start the installation.](#)</br>
-* Ensure you are logged into your BigCommerce store as a Store Admin.</br>
+**1. Start the Installation** <br />
+* [Click here to start the installation.](#) <br />
+* Ensure you are logged into your BigCommerce store as a Store Admin. <br />
 
-**2.  Access the Marketplace**</br>
-* In the BigCommerce menu, navigate to `Apps > Marketplace`.</br>
+**2.  Access the Marketplace** <br />
+* In the BigCommerce menu, navigate to `Apps > Marketplace`. <br />
 
-**3.  Search for Extend Commerce**</br>
-* Use the search bar to find **Extend Commerce**.</br>
+**3.  Search for Extend Commerce** <br />
+* Use the search bar to find **Extend Commerce**. <br />
 
-**4.  Install the App**</br>
-* Click **GET THIS APP** and follow the instructions to install the application.</br>
+**4.  Install the App** <br />
+* Click **GET THIS APP** and follow the instructions to install the application. <br />
 
 ## Post Installation
 
@@ -36,17 +36,17 @@ To install and use the Extend Commerce application, you need access to the BigCo
 
 The dashboard is the main interface where you can access all the features of Extend Commerce. It includes the following sections:
 
-**1. Company**: Create and add new companies, manage companies, and view details about each company.</br>
-**2. Product Table**: Enable functions to add, edit, and manage various Product Tables. Additionally, facilitates the copying of short codes from tables, which can then be pasted into the BigCommerce Web Page Editor, rendering the Product Table on the desired webpage.</br>
-**3. Appearance Settings**: Customize the appearance of the Product Table from this feature tab.</br>
-**4. Roles and Permissions**: Define and assign different roles and permissions to the users for different companies.</br>
+**1. Company**: Create and add new companies, manage companies, and view details about each company. <br />
+**2. Product Table**: Enable functions to add, edit, and manage various Product Tables. Additionally, facilitates the copying of short codes from tables, which can then be pasted into the BigCommerce Web Page Editor, rendering the Product Table on the desired webpage. <br />
+**3. Appearance Settings**: Customize the appearance of the Product Table from this feature tab. <br />
+**4. Roles and Permissions**: Define and assign different roles and permissions to the users for different companies. <br />
 
 ## Feature Benefits
 
 Extend Commerce offers a variety of features designed to streamline the management of companies and users. Some key benefits include:
 
-* **Company Management & Dashboards**: Manage multiple companies, different dashboards for each company, track order statuses, admins can monitor activities of company features.</br>
-* ***Product Table Management**: Access and manage the entire product catalog from a single interface, streamline updates, save time, navigate quickly through all products on a single screen, and gain a comprehensive product overview in a single table.</br>
-* ***User Role Management Permissions**: View orders, view users, delete cart, use credit to place orders, share a cart, load cart, cart approver, disallow checkout, manage purchase limit, cart requester.</br>
-* ***Company Users Purchasing & Approvals**: Set purchase limits, restrict volumes, fine-tune permissions, implement approval workflows, and manage budgets efficiently for individual users.</br>
-* ***Customizable Appearance for Product Table**: Enable adjustments to the application's color scheme through global settings (including buttons, tabs, checkboxes, text fields, and dropdowns) and product table-specific settings (such as headings, fonts, subheadings, search boxes, and filters) to achieve a cohesive look.</br>
+* **Company Management & Dashboards**: Manage multiple companies, different dashboards for each company, track order statuses, admins can monitor activities of company features. <br />
+* ***Product Table Management**: Access and manage the entire product catalog from a single interface, streamline updates, save time, navigate quickly through all products on a single screen, and gain a comprehensive product overview in a single table. <br />
+* ***User Role Management Permissions**: View orders, view users, delete cart, use credit to place orders, share a cart, load cart, cart approver, disallow checkout, manage purchase limit, cart requester. <br />
+* ***Company Users Purchasing & Approvals**: Set purchase limits, restrict volumes, fine-tune permissions, implement approval workflows, and manage budgets efficiently for individual users. <br />
+* ***Customizable Appearance for Product Table**: Enable adjustments to the application's color scheme through global settings (including buttons, tabs, checkboxes, text fields, and dropdowns) and product table-specific settings (such as headings, fonts, subheadings, search boxes, and filters) to achieve a cohesive look. <br />
