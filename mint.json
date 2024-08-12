@@ -67,7 +67,7 @@
     {
       "group": "BigCommerce",
       "pages": [
-        "bigcommerce/Getting_Started",
+        "bigcommerce/getting-started",
         "bigcommerce/Company_Management",
         "bigcommerce/User_Management",
         "bigcommerce/Order_Management",
