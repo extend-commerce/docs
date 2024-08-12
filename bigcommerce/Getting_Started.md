@@ -9,28 +9,28 @@ To install and use the Extend Commerce application, you need access to the BigCo
 ## Installation Guide
 
 **1. Start the Installation**</br>
-• [Click here to start the installation.](#)</br>
-• Ensure you are logged into your BigCommerce store as a Store Admin.</br>
+* [Click here to start the installation.](#)</br>
+* Ensure you are logged into your BigCommerce store as a Store Admin.</br>
 
 **2.  Access the Marketplace**</br>
-• In the BigCommerce menu, navigate to `Apps > Marketplace`.</br>
+* In the BigCommerce menu, navigate to `Apps > Marketplace`.</br>
 
 **3.  Search for Extend Commerce**</br>
-•Use the search bar to find **Extend Commerce**.</br>
+* Use the search bar to find **Extend Commerce**.</br>
 
 **4.  Install the App**</br>
-• Click **GET THIS APP** and follow the instructions to install the application.</br>
+* Click **GET THIS APP** and follow the instructions to install the application.</br>
 
 ## Post Installation
 
 **Go to your BigCommerce Admin Dashboard → Apps → There you will find the recently installed application.**
 
 **1. Launch the App**
-• After installation, click to launch the app.
-• The app will now be visible in the `My Apps` section.
+* After installation, click to launch the app.
+* The app will now be visible in the `My Apps` section.
 
 **2. Open Extend Commerce (Application)**
-•  Click on the **Extend Commerce** app to open the Application’s Dashboard.
+* Click on the **Extend Commerce** app to open the Application’s Dashboard.
 
 ## Application Overview
 
@@ -45,8 +45,8 @@ The dashboard is the main interface where you can access all the features of Ext
 
 Extend Commerce offers a variety of features designed to streamline the management of companies and users. Some key benefits include:
 
-•  **Company Management & Dashboards**: Manage multiple companies, different dashboards for each company, track order statuses, admins can monitor activities of company features.</br>
-•  **Product Table Management**: Access and manage the entire product catalog from a single interface, streamline updates, save time, navigate quickly through all products on a single screen, and gain a comprehensive product overview in a single table.</br>
-• **User Role Management Permissions**: View orders, view users, delete cart, use credit to place orders, share a cart, load cart, cart approver, disallow checkout, manage purchase limit, cart requester.</br>
-•  **Company Users Purchasing & Approvals**: Set purchase limits, restrict volumes, fine-tune permissions, implement approval workflows, and manage budgets efficiently for individual users.</br>
-•  **Customizable Appearance for Product Table**: Enable adjustments to the application's color scheme through global settings (including buttons, tabs, checkboxes, text fields, and dropdowns) and product table-specific settings (such as headings, fonts, subheadings, search boxes, and filters) to achieve a cohesive look.</br>
+* **Company Management & Dashboards**: Manage multiple companies, different dashboards for each company, track order statuses, admins can monitor activities of company features.</br>
+* ***Product Table Management**: Access and manage the entire product catalog from a single interface, streamline updates, save time, navigate quickly through all products on a single screen, and gain a comprehensive product overview in a single table.</br>
+* ***User Role Management Permissions**: View orders, view users, delete cart, use credit to place orders, share a cart, load cart, cart approver, disallow checkout, manage purchase limit, cart requester.</br>
+* ***Company Users Purchasing & Approvals**: Set purchase limits, restrict volumes, fine-tune permissions, implement approval workflows, and manage budgets efficiently for individual users.</br>
+* ***Customizable Appearance for Product Table**: Enable adjustments to the application's color scheme through global settings (including buttons, tabs, checkboxes, text fields, and dropdowns) and product table-specific settings (such as headings, fonts, subheadings, search boxes, and filters) to achieve a cohesive look.</br>
