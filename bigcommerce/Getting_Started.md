@@ -49,7 +49,11 @@ The dashboard is the main interface where you can access all the features of Ext
 Extend Commerce offers a variety of features designed to streamline the management of companies and users. Some key benefits include:
 
 •  **Company Management & Dashboards**: Manage multiple companies, different dashboards for each company, track order statuses, admins can monitor activities of company features.
+
 •  **Product Table Management**: Access and manage the entire product catalog from a single interface, streamline updates, save time, navigate quickly through all products on a single screen, and gain a comprehensive product overview in a single table.
+
 • **User Role Management Permissions**: View orders, view users, delete cart, use credit to place orders, share a cart, load cart, cart approver, disallow checkout, manage purchase limit, cart requester.
+
 •  **Company Users Purchasing & Approvals**: Set purchase limits, restrict volumes, fine-tune permissions, implement approval workflows, and manage budgets efficiently for individual users.
+
 •  **Customizable Appearance for Product Table**: Enable adjustments to the application's color scheme through global settings (including buttons, tabs, checkboxes, text fields, and dropdowns) and product table-specific settings (such as headings, fonts, subheadings, search boxes, and filters) to achieve a cohesive look.
