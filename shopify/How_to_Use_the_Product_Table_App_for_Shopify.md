@@ -1,5 +1,3 @@
-# How to Use the Product Table App for Shopify
-
 ## Overview
 The "Product Table" app for Shopify allows store owners to display their products in a structured, table-like format on their website. This app is particularly useful for businesses that sell in bulk or have extensive product catalogs, as well as specialized stores where detailed product tables are essential.
 
