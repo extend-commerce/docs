@@ -1,4 +1,3 @@
-# Getting Started 
 A guide to installing the “Product Table” App in your Shopify store.
 
 ## Installing Product Table
