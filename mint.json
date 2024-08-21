@@ -57,18 +57,6 @@
   ],
   "navigation": [
     {
-      "group": "BigCommerce",
-      "pages": [
-        "bigcommerce/Getting_Started", 
-        "bigcommerce/Company_Management",
-        "bigcommerce/User_Management",
-        "bigcommerce/Order_Management",
-        "bigcommerce/Product_Table",
-        "bigcommerce/Roles_and_Permissions",
-        "bigcommerce/Appearance_Settings"
-      ]
-    },
-    {
       "group": "Shopify",
       "pages": [
         "shopify/Getting_Started",
@@ -79,7 +67,20 @@
         "shopify/Roles_and_Permissions",
         "shopify/Appearance_Settings"
       ]
+    },
+    {
+      "group": "BigCommerce",
+      "pages": [
+        "bigcommerce/Getting_Started", 
+        "bigcommerce/Company_Management",
+        "bigcommerce/User_Management",
+        "bigcommerce/Order_Management",
+        "bigcommerce/Product_Table",
+        "bigcommerce/Roles_and_Permissions",
+        "bigcommerce/Appearance_Settings"
+      ]
     }
+    
   ],
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/codup",
