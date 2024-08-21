@@ -28,10 +28,6 @@
 
   "tabs": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-    {
       "name": "BigCommerce",
       "url": "bigcommerce"
     },
@@ -58,12 +54,6 @@
     }
   ],
   "navigation": [
-    {
-      "group": "Home",
-      "pages": [
-        "Home"
-      ]
-    },
     {
       "group": "BigCommerce",
       "pages": [
