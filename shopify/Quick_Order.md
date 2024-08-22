@@ -1,16 +1,18 @@
+# How to add Quick Order Product Tables
+
 ## Overview
-The "Product Table" app for Shopify allows store owners to display their products in a structured, table-like format on their website. This app is particularly useful for businesses that sell in bulk or have extensive product catalogs, as well as specialized stores where detailed product tables are essential.
+The "Quick Order - B2B & Wholesale" app for Shopify allows store owners to display their products in a structured, table-like format on their website. This app is particularly useful for businesses that sell in bulk or have extensive product catalogs, as well as specialized stores where detailed product tables are essential.
 
 ## Prerequisites
-Before setting up the "Product Table," make sure you've already created collections that you want to display in the product table in your Shopify store.
+Before setting up the quick order product tables," make sure you've already created collections that you want to display in the product table in your Shopify store.
 
 ## Adding Product Table In Shopify
 
 ### 1. Add Product Table
 
 #### Navigate to the App Dashboard:
-- In your Shopify admin, navigate to the **Apps** section and locate the **Product Table** app.
-- Click on the **Product Table** app to access the Product Table management page.
+- In your Shopify admin, navigate to the **Apps** section and locate the **Quick Order - B2B & Wholesale** app.
+- Click on the **Quick Order - B2B & Wholesale** app to access the Product Table management page.
 
 #### Create a New Table:
 - Click on the **Add New Table** button to start creating a new product table.
