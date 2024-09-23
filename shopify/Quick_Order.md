@@ -85,7 +85,7 @@ Before setting up the quick order product tables," make sure you've already crea
 - Click **Customize** on your active theme.
 - Select the page where you want to add the product table (e.g., homepage, collection page).
 - Click the **Add section** button on the page editor.
-- In the side panel, under the **Apps** section, you'll find the **Product Table** app.
+- In the side panel, under the **Apps** section, you'll find the **'Quick Order - B2B & Wholesale'** app.
 - Click on the app to add it to your page.
 - Click on the added 'Quick Order - B2B & Wholesale' app block.
 - Enter the unique product table ID that you copied from the 'Quick Order - B2B & Wholesale' app dashboard.
