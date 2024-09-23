@@ -6,8 +6,8 @@ A guide to installing the Quick Order App in your Shopify store.
 
 2. **Search for the App**: Use the search bar to find the 'Quick Order - B2B & Wholesale' app, or [click here](https://apps.shopify.com/quick-order-b2b-and-wholesale) to go directly to the app page.
 
-3. **Review App Details**: Carefully read the Quick Order - B2B & Wholesale' app description and the permissions it requests.
+3. **Review App Details**: Carefully read the 'Quick Order - B2B & Wholesale' app description and the permissions it requests.
 
 4. **Install the App**: Click the "Install" button.
 
-5. **Authorize Permissions**: Review the requested permissions and click "Install" to grant access and install the Quick Order - B2B & Wholesale' app on your store.
+5. **Authorize Permissions**: Review the requested permissions and click "Install" to grant access and install the 'Quick Order - B2B & Wholesale' app on your store.
