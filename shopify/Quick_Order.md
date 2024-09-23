@@ -87,18 +87,18 @@ Before setting up the quick order product tables," make sure you've already crea
 - Click the **Add section** button on the page editor.
 - In the side panel, under the **Apps** section, you'll find the **Product Table** app.
 - Click on the app to add it to your page.
-- Click on the added Product Table app block.
-- Enter the unique product table ID that you copied from the Product Table app dashboard.
+- Click on the added 'Quick Order - B2B & Wholesale' app block.
+- Enter the unique product table ID that you copied from the 'Quick Order - B2B & Wholesale' app dashboard.
 - Click **Save** to apply the changes.
 - Preview your store to see the product table displayed on the selected page.
 
 ### 2. Editing and Deleting Product Tables
 
 #### Edit Product Table
-- Go to the Product Table app page, locate the table, and click on the edit button. Modify settings as needed.
+- Go to the 'Quick Order - B2B & Wholesale' app page, locate the table, and click on the edit button. Modify settings as needed.
 
 #### Delete Product Table
-- Navigate to the Product Table app page, find the table, and click on the delete button. Confirm deletion when prompted.
+- Navigate to the 'Quick Order - B2B & Wholesale' app page, find the table, and click on the delete button. Confirm deletion when prompted.
 
 ### 3. Sorting and Searching Product Tables
 - **Sort and Search**: Use the search bar to find specific product tables by name. Sort tables alphabetically or by published date for easier management.
