@@ -58,7 +58,7 @@ Before setting up the quick order product tables," make sure you've already crea
      - Inventory Quantity: Number of items in stock.
      - Tax Code: Tax category for the product.
      - Taxable: Indicates if the product is subject to tax.
-     ![QuickOrder](/bigcommerce/images/collection2.png)
+     ![QuickOrder](/bigcommerce/images/coloumandfiltter2.png)
    - **Customization of Columns**:
      - Define a label for each selected column or you can leave it to use the default value.
      - Check the box next to each column that supports filtering, indicating that filters for those columns will be applicable.
