@@ -36,6 +36,10 @@
       "name": "BigCommerce",
       "url": "bigcommerce"
     }
+    {
+      "name": "Inventory Forecasting AI",
+      "url": "Inventory Forecasting AI"
+    }
     
   ],
   "anchors": [
@@ -51,6 +55,11 @@
     },
     {
       "name": "BigCommerce App",
+      "icon": "store",
+      "url": "https://www.bigcommerce.com/apps/extend-commerce-beta/"
+    },
+    {
+      "name": "Inventory Forecasting AI App",
       "icon": "store",
       "url": "https://www.bigcommerce.com/apps/extend-commerce-beta/"
     }
@@ -73,6 +82,14 @@
         "bigcommerce/Product_Table",
         "bigcommerce/Roles_and_Permissions",
         "bigcommerce/Appearance_Settings"
+      ]
+      
+    },
+    {
+      "group": "Inventory Forecasting AI",
+      "pages": [
+        "inventory-forecasting-ai/Getting_Started"
+        
       ]
     }
     
