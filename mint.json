@@ -38,9 +38,8 @@
     },
     {
       "name": "Inventory Forecasting AI",
-      "url": "Inventory Forecasting AI"
+      "url": "inventory-forecasting-ai"
     }
-    
   ],
   "anchors": [
     {
@@ -89,7 +88,6 @@
       "group": "Inventory Forecasting AI",
       "pages": [
         "inventory-forecasting-ai/Getting_Started"
-        
       ]
     }
     
