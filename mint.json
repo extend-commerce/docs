@@ -28,13 +28,12 @@
 
   "tabs": [
     {
-      "name": "Shopify",
-      "url": "shopify"
-    },
-    
-    {
       "name": "BigCommerce",
       "url": "bigcommerce"
+    },
+    {
+      "name": "Shopify",
+      "url": "shopify"
     },
     {
       "name": "Inventory Forecasting AI",
@@ -48,14 +47,14 @@
       "url": "https://discord.com/channels/1270051132315533392/1270051883704127548"
     },
     {
-      "name": "Shopify App",
-      "icon": "Shopify",
-      "url": "https://apps.shopify.com/quick-order-b2b-and-wholesale"
-    },
-    {
       "name": "BigCommerce App",
       "icon": "store",
       "url": "https://www.bigcommerce.com/apps/extend-commerce-beta/"
+    },
+    {
+      "name": "Shopify App",
+      "icon": "Shopify",
+      "url": "https://apps.shopify.com/quick-order-b2b-and-wholesale"
     },
     {
       "name": "Inventory Forecasting AI App",
@@ -64,13 +63,6 @@
     }
   ],
   "navigation": [
-    {
-      "group": "Shopify",
-      "pages": [
-        "shopify/Getting_Started",
-        "shopify/Quick_Order"
-      ]
-    },
     {
       "group": "BigCommerce",
       "pages": [
@@ -83,6 +75,13 @@
         "bigcommerce/Appearance_Settings"
       ]
       
+    },
+    {
+      "group": "Shopify",
+      "pages": [
+        "shopify/Getting_Started",
+        "shopify/Quick_Order"
+      ]
     },
     {
       "group": "Inventory Forecasting AI",
