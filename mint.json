@@ -73,14 +73,13 @@
         "bigcommerce/Product_Table",
         "bigcommerce/Roles_and_Permissions",
         "bigcommerce/Appearance_Settings"
-      ]
-      
+      ] 
     },
     {
       "group": "Quick Order",
       "pages": [
-        "shopify/Getting_Started",
-        "shopify/Quick_Order"
+        "quick-order/Getting_Started",
+        "quick-order/Quick_Order"
       ]
     },
     {
@@ -89,7 +88,6 @@
         "inventory-forecast-ai/Getting_Started"
       ]
     }
-    
   ],
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/codup",
