@@ -17,12 +17,17 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "EmailSupport",
       "url": "mailto:support@extendcommerce.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Website",
+    "url": "https://extendcommerce.com"
+  },
+
+  "topbarCtaButton": {
+    "name": "demo",
     "url": "https://extendcommerce.com"
   },
 
