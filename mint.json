@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "EmailSupport",
+      "name": "Email Support",
       "url": "mailto:support@extendcommerce.com"
     }
   ],
@@ -25,12 +25,6 @@
     "name": "Website",
     "url": "https://extendcommerce.com"
   },
-
-  "topbarCtaButton": {
-    "name": "demo",
-    "url": "https://extendcommerce.com"
-  },
-
   "tabs": [
     {
       "name": "BigCommerce",
@@ -41,8 +35,8 @@
       "url": "shopify"
     },
     {
-      "name": "Inventory Forecasting AI",
-      "url": "inventory-forecasting-ai"
+      "name": "Inventory Forecast AI",
+      "url": "inventory-forecast-ai"
     }
   ],
   "anchors": [
@@ -89,9 +83,9 @@
       ]
     },
     {
-      "group": "Inventory Forecasting AI",
+      "group": "Inventory Forecast AI",
       "pages": [
-        "inventory-forecasting-ai/Getting_Started"
+        "inventory-forecast-ai/Getting_Started"
       ]
     }
     
