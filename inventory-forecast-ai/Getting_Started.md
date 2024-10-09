@@ -14,4 +14,6 @@ A guide to installing the Inventory Forcaste AI App in your Shopify store.
 <!-- ![Getting_Started](/bigcommerce/images/Install_.png) -->
 
 5. **Authorize Permissions**: Review the requested permissions and click "Install" to grant access and install the 'Inventory Forecast AI' app on your store.
+
+5. **Authorize Permissions**: Review the requested permissions and click "Install" to grant access and install the 'Inventory Forecast AI' app on your store.
 <!-- ![Getting_Started](/bigcommerce/images/installed.png) -->
