@@ -85,7 +85,8 @@
     {
       "group": "Inventory Forecast AI",
       "pages": [
-        "inventory-forecast-ai/Getting_Started"
+        "inventory-forecast-ai/Getting_Started",
+        "inventory-forecast-ai/inventory-forecast-ai"
       ]
     }
   ],
