@@ -27,17 +27,18 @@
   },
   "tabs": [
     {
-      "name": "BigCommerce",
-      "url": "bigcommerce"
-    },
-    {
-      "name": "Shopify",
-      "url": "shopify"
+      "name": "Quick Order",
+      "url": "quick-order"
     },
     {
       "name": "Inventory Forecast AI",
       "url": "inventory-forecast-ai"
+    },
+    {
+      "name": "BigCommerce",
+      "url": "bigcommerce"
     }
+   
   ],
   "anchors": [
     {
@@ -46,18 +47,18 @@
       "url": "https://discord.com/channels/1270051132315533392/1270051883704127548"
     },
     {
-      "name": "BigCommerce App",
-      "icon": "store",
-      "url": "https://www.bigcommerce.com/apps/extend-commerce-beta/"
+      "name": "Book Demo",
+      "icon": "Calendar",
+      "url": "https://meetings.hubspot.com/fsheikh"
     },
     {
-      "name": "Shopify App",
+      "name": "Quick Order",
       "icon": "Shopify",
       "url": "https://apps.shopify.com/quick-order-b2b-and-wholesale"
     },
     {
-      "name": "Inventory Forecasting AI App",
-      "icon": "store",
+      "name": "Inventory Forecast AI App",
+      "icon": "Shopify",
       "url": "https://www.bigcommerce.com/apps/extend-commerce-beta/"
     }
   ],
@@ -76,7 +77,7 @@
       
     },
     {
-      "group": "Shopify",
+      "group": "Quick Order",
       "pages": [
         "shopify/Getting_Started",
         "shopify/Quick_Order"
