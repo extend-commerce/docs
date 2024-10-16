@@ -63,18 +63,7 @@
     }
   ],
   "navigation": [
-    {
-      "group": "BigCommerce",
-      "pages": [
-        "bigcommerce/Getting_Started", 
-        "bigcommerce/Company_Management",
-        "bigcommerce/User_Management",
-        "bigcommerce/Order_Management",
-        "bigcommerce/Product_Table",
-        "bigcommerce/Roles_and_Permissions",
-        "bigcommerce/Appearance_Settings"
-      ] 
-    },
+   
     {
       "group": "Quick Order",
       "pages": [
@@ -88,6 +77,18 @@
         "inventory-forecast-ai/Getting_Started",
         "inventory-forecast-ai/Inventory_Forecast_Ai"
       ]
+    },
+    {
+      "group": "BigCommerce",
+      "pages": [
+        "bigcommerce/Getting_Started", 
+        "bigcommerce/Company_Management",
+        "bigcommerce/User_Management",
+        "bigcommerce/Order_Management",
+        "bigcommerce/Product_Table",
+        "bigcommerce/Roles_and_Permissions",
+        "bigcommerce/Appearance_Settings"
+      ] 
     }
   ],
   "footerSocials": {
