@@ -2,7 +2,7 @@
 title: "Inventory Forecasting"
 ---
 
-## Review Forecasts
+## Model Training
 
 Once installed, our forecasting algorithm will begin analyzing your Shopify order data to generate sales forecasts. There are four possible statuses that you’ll see:
 ![Install\_App](../bigcommerce/images/inventory_app.png)
