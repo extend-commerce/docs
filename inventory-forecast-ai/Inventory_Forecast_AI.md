@@ -1,16 +1,8 @@
 ---
-title: "Overview"
+title: "Inventory Forecasting"
 ---
 
-## Overview
-
-Our Inventory Forecast AI app is designed to help businesses accurately predict future sales and optimize their inventory accordingly using a forecasting algorithm.For better sales forecasting, we recommend using 24 months of data. Offering both 3-month and 6-month forecast options, the app provides detailed insights into past sales trends and performance. For upcoming months, users can anticipate potential sales fluctuations and receive timely restocking recommendations based on lead time.
-
-## Installation
-
-##
-
-## Forecast
+## Review Forecasts
 
 Once installed, our forecasting algorithm will begin analyzing your Shopify order data to generate sales forecasts. There are four possible statuses that you’ll see:
 ![Install\_App](../bigcommerce/images/inventory_app.png)
