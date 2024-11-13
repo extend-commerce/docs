@@ -6,21 +6,19 @@ title: "How to add Quick Order Product Tables"
 
 This section helps you set up Quick Order for bulk buying which allows customers to add products to the cart in bulk via CSV upload. Follow these steps:
 
-1. **Enable Quick Order:**&#x20;
+1. **Enable Quick Order:**  Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
 
-Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
+2. **Choose Product Table for Quick Order**
 
-## **Choose Product Table for Quick Order**
+* Click **Create Product Table** to navigate to the Product Table Settings page and set up a new table&#x20;
 
-* **2.** Click **Create Product Table** to navigate to the Product Table Settings page and set up a new table&#x20;
+* If you’ve previously created product tables, they will appear in a dropdown menu where you can select which table(s) to display in the Quick Order
 
-* If you’ve previously created product tables, they will appear in a dropdown menu where you can select which table(s) to display in the Quick Order.
-
-## 3. **Setting Up Product Table for Quick Order**
+1. **Setting Up Product Table for Quick Order**
 
 * Once on the Product Table Settings page, you can customize your product table through the following tabs:
 
-* **General Settings**
+&#x20;     **General Settings**
 
 * **Table Name**: Provide a name for your product table.
 
@@ -44,7 +42,7 @@ Check this box to activate the Quick Order feature on your store. By default, th
 
 * **Products per Page**: Set the number of products displayed on each page.
 
-* **Products Tab**
+&#x20;     **Products Tab**
 
 * **Display Product Selection**: Choose whether to display all products or only specific collections.
 
@@ -52,7 +50,7 @@ Check this box to activate the Quick Order feature on your store. By default, th
 
 * **Preview Products**: Click the eye icon to preview products within each collection.
 
-* **Columns & Filters**
+&#x20;     **Columns & Filters**
 
 * **Available Columns**: Select which columns to display from available product attributes, such as:
 
@@ -62,7 +60,25 @@ Check this box to activate the Quick Order feature on your store. By default, th
 
 * **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.
 
+&#x20;     **Appearance**
 
+* **Color Palette**: Choose colors for table elements like headings, buttons, and fonts.
+
+* **Save Palette**: Save your customized palette; all elements will update to match.
+
+* **Restore Default**: Reset to the default color palette if needed.
+
+* Once all settings are configured, click either **Save & Publish** or **Save as Draft**:
+
+* **Save & Publish**: Sets the product table to **Active** status, allowing it to be added to any part of your store outside of Quick Order if needed. The table will be fully accessible within your store.
+
+* **Save as Draft**: Sets the product table to **Draft** status, making it unavailable for standalone use on the store until published.
+
+<Check>
+  **Note:** Regardless of the status (Active or Draft), all product tables will still be available in **Quick Order Settings** and can be added to the Quick Order as needed.
+</Check>
+
+1. Bulk Upload Products
 
 # Overview
 
