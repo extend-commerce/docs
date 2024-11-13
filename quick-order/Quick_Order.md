@@ -14,7 +14,7 @@ title: "Quick Order Setup"
 
 3. **Setting Up Product Table for Quick Order**
 
-   * Once on the Product Table Settings page, you can customize your product table through the following tabs: \</br>
+   * Once on the Product Table Settings page, you can customize your product table through the following tabs:
      **a. General Settings**
 
    * **Table Name**: Provide a name for your product table.
@@ -74,7 +74,7 @@ title: "Quick Order Setup"
 
    * **Paste CSV Content**: Paste CSV data directly into the text editor.
 
-   * **Save Settings**: Click this button to apply your Quick Order configurations.
+6. **Save Settings**: Click this button to apply your Quick Order configurations.
 
 ---
 title: "Quick Order Setup"
