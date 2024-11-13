@@ -7,6 +7,7 @@ title: "Quick Order Setup"
 1. **Enable Quick Order**
 
    * Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
+     ![](s1.gif)
 
 2. **Choose Product Table for Quick Order**
 
