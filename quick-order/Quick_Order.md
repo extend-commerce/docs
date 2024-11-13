@@ -116,7 +116,13 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
   * If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided.
 
-* ![QuickOrder](/bigcommerce/images/app_collection.png)![QuickOrder](/bigcommerce/images/Product_table1.png)
+<Tip>
+  You can only add one Quick Order form to any location on your store at a time. Multiple Quick Order forms cannot be added to the same area.
+
+
+</Tip>
+
+![QuickOrder](/bigcommerce/images/Product_table1.png)
 
 #### Create a New Table:
 
