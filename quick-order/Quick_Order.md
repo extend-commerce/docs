@@ -2,7 +2,7 @@
 title: "Quick Order Setup"
 ---
 
-**This section helps you set up the Quick Order feature for bulk buying, which allows customers to add products to the cart in bulk via CSV upload. Follow these steps:**
+This guide walks you through setting up the Quick Order feature for bulk purchasing, enabling customers to easily add products to their cart via customizable product tables and CSV uploads. Follow the steps below to get started:
 
 1. **Enable Quick Order**
 
@@ -14,9 +14,7 @@ title: "Quick Order Setup"
 
 3. **Setting Up Product Table for Quick Order**
 
-   * Once on the Product Table Settings page, you can customize your product table through the following tabs:
-
-     **a. General Settings**
+   * Once on the Product Table Settings page, you can customize your product table through the following tabs:**a. General Settings**
 
    * **Table Name**: Provide a name for your product table.
 
@@ -38,17 +36,13 @@ title: "Quick Order Setup"
 
    * **Enable Image Lightbox**: Allows larger image views upon clicking product images.
 
-   * **Products per Page**: Set the number of products displayed on each page.&#x20;
-
-     **b. Products Tab**
+   * **Products per Page**: Set the number of products displayed on each page. **b. Products Tab**
 
    * **Display Product Selection**: Choose whether to display all products or only specific collections.
 
    * **Selected Collections**: If opting for specific products, choose collections from a dropdown menu.
 
-   * **Preview Products**: Click the eye icon to preview products within each collection.
-
-     **c. Columns & Filters**
+   * **Preview Products**: Click the eye icon to preview products within each collection.**c. Columns & Filters**
 
    * **Available Columns**: Select which columns to display from available product attributes, such as:
 
@@ -56,9 +50,7 @@ title: "Quick Order Setup"
 
    * **Filters**: Select checkboxes beside columns to enable filtering based on that column’s values.
 
-   * **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.
-
-     **d. Appearance**
+   * **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.**d. Appearance**
 
    * **Color Palette**: Choose colors for table elements like headings, buttons, and fonts.
 
@@ -96,9 +88,7 @@ title: "Quick Order Setup"
 
 * **Using the Quick Order**
 
-  * On the store, an **Upload CSV** button will appear. Click this to open a dialog with two tabs: **File Upload** and **CSV Paste**.
-
-    **a. File Upload**
+  * On the store, an **Upload CSV** button will appear. Click this to open a dialog with two tabs: **File Upload** and **CSV Paste**.**a. File Upload**
 
   * Either drag and drop your CSV file or select it from your computer.
 
@@ -112,17 +102,13 @@ title: "Quick Order Setup"
 
   * Click **Validate Content** to check the entries. If all SKUs and quantities are valid, you’ll proceed to a screen where you can choose which items to add to the cart.
 
-  * If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided.
-
-    **b. CSV Content Paste**
+  * If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided.**b. CSV Content Paste**
 
   * Use the text box to paste CSV content directly (formatted as SKU, Quantity, e.g., TSL-LM-A101, 9).
 
   * Click **Validate Content** to check the entries. If all SKUs and quantities are valid, you’ll proceed to a screen where you can choose which items to add to the cart.
 
   * If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided
-
-
 
 ***
 
