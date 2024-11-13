@@ -76,15 +76,15 @@ title: "Quick Order Setup"
   Regardless of the status (Active or Draft), all product tables will still be available in **Quick Order Settings** and can be added to the Quick Order as needed.
 </Tip>
 
-**5. Bulk Upload Products**
+5\. **Bulk Upload Products**
 
 1. **Upload via CSV File**: Upload a CSV file to add products to the cart.
 
 2. **Paste CSV Content**: Paste CSV data directly into the text editor.
 
-**6. Save Settings**: Click this button to apply your Quick Order configurations.
+6\. **Save Settings**: Click this button to apply your Quick Order configurations.
 
-1. **To set up Quick Order on your store, follow these steps:**
+7.**To set up Quick Order on your store, follow these steps:**
 
 * **Add Quick Order App to Theme Customization**
 
