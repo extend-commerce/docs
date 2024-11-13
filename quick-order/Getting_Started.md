@@ -1,3 +1,7 @@
+---
+title: "Getting Started"
+---
+
 A guide to installing the Quick Order App in your Shopify store.
 
 ## Installing Product Table
