@@ -86,6 +86,8 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 1. **Save Settings**: Click this button to apply your Quick Order configurations.
 
+2. **Setting Up Quick Order on Your Store**
+
 
 ![QuickOrder](/bigcommerce/images/app_collection.png)![QuickOrder](/bigcommerce/images/Product_table1.png)
 ==========================================================================================================
