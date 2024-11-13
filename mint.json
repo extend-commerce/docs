@@ -72,6 +72,13 @@
       ]
     },
     {
+      "group": "Product Table",
+      "pages": [
+        "quick-order/Getting_Started",
+        "quick-order/Quick_Order"
+      ]
+    },
+    {
       "group": "Inventory Forecast AI",
       "pages": [
         "inventory-forecast-ai/Getting_Started",

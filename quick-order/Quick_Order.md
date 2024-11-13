@@ -1,8 +1,6 @@
 ---
-title: "How to add Quick Order Product Tables"
+title: "Quick Order Setup"
 ---
-
-# **Quick Order Setup**
 
 This section helps you set up Quick Order for bulk buying which allows customers to add products to the cart in bulk via CSV upload. Follow these steps:
 

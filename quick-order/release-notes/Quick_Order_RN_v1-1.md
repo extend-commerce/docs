@@ -1,4 +1,6 @@
-# **Quick Order v1.1 - Release Notes**
+---
+title: "Quick Order v1.1 - Release Notes"
+---
 
 Here we go, with our first major update for the Quick Order app. Before we show and tell, I wanted to thank you, our amazing users, for your feedback and your patience with using a new app from the Shopify App Store.
 
