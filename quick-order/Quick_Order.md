@@ -84,7 +84,7 @@ title: "Quick Order Setup"
 
 6\. **Save Settings**: Click this button to apply your Quick Order configurations.
 
-7\. **To set up Quick Order on your store, follow these steps:**
+7\.  **To set up Quick Order on your store, follow these steps:**
 
 * **Add Quick Order App to Theme Customization**
 
