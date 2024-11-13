@@ -18,7 +18,7 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 * Once on the Product Table Settings page, you can customize your product table through the following tabs:
 
-&#x20;     **General Settings**
+&#x20;      **General Settings**
 
 * **Table Name**: Provide a name for your product table.
 
@@ -78,27 +78,17 @@ This section helps you set up Quick Order for bulk buying which allows customers
   **Note:** Regardless of the status (Active or Draft), all product tables will still be available in **Quick Order Settings** and can be added to the Quick Order as needed.
 </Check>
 
-1. Bulk Upload Products
+1. **Bulk Upload Products:** Allows customers to add multiple products to their cart at once.
 
-# Overview
+* **Upload via CSV File**: Upload a CSV file to add products to the cart.
 
-The "Quick Order - B2B & Wholesale" app for Shopify allows store owners to display their products in a structured, table-like format on their website. This app is particularly useful for businesses that sell in bulk or have extensive product catalogs, as well as specialized stores where detailed product tables are essential.
+* **Paste CSV Content**: Paste CSV data directly into the text editor.
 
-## Prerequisites
+1. **Save Settings**: Click this button to apply your Quick Order configurations.
 
-Before setting up the quick order product tables," make sure you've already created collections that you want to display in the product table in your Shopify store.
-![QuickOrder](/bigcommerce/images/app_collection.png)
 
-## Adding Product Table In Shopify
-
-### 1. Add Product Table
-
-#### Navigate to the App Dashboard:
-
-* In your Shopify admin, navigate to the **Apps** section and locate the **Quick Order - B2B & Wholesale** app.
-
-* Click on the **Quick Order - B2B & Wholesale** app to access the Product Table management page.
-  ![QuickOrder](/bigcommerce/images/Product_table1.png)
+![QuickOrder](/bigcommerce/images/app_collection.png)![QuickOrder](/bigcommerce/images/Product_table1.png)
+==========================================================================================================
 
 #### Create a New Table:
 
@@ -109,35 +99,8 @@ Before setting up the quick order product tables," make sure you've already crea
 
 1. **Provide a name** for your table in the designated field.
    ![QuickOrder](/bigcommerce/images/Product_table_Name.png)
-
-2. **General Settings**:
-
-   * Enter a brief description of the product table.
-
-   * Enable the search feature to allow customers to find products easily.
-
-   * Enable filters to provide intuitive product filtering options.
-
-   * Choose whether to enable "Add to Cart" functionality at the item-level or table-level or both.
-
-   * Enable image lightbox for larger image views.
-
-   * Define the number of products to display per page.
-     ![QuickOrder](/bigcommerce/images/General_Settings.png)
-
-3. **Collections**:
-
-   * Select the Shopify collections whose products you'd like to showcase in the table.
-
-   * You can also click the eye icon to preview the products in each collection.
-     ![QuickOrder](/bigcommerce/images/collectionScreen.png)
-
-4. **Columns and Filters**:
-
-   * **Select Columns**:
-
-     * Choose from a list of available columns provided by Shopify. These columns represent various attributes and properties of your products within the Shopify system.
-       ![QuickOrder](/bigcommerce/images/column\&filter.png)
+   ![QuickOrder](/bigcommerce/images/General_Settings.png)Choose from a list of available columns provided by Shopify. These columns represent various attributes and properties of your products within the Shopify system.
+   ![QuickOrder](/bigcommerce/images/column\&filter.png)
 
    * **List of Available Columns**:
 
@@ -188,46 +151,17 @@ Before setting up the quick order product tables," make sure you've already crea
      * Delete columns if necessary. You can have up to 5 columns in your product table.
        ![QuickOrder](/bigcommerce/images/Delete.coloumn.png)
 
-     * Rearrange columns by dragging them into your preferred order.
+     *
+       ![QuickOrder](/bigcommerce/images/appearance_setting.png)
 
-5. **Appearance Settings**:
-
-   * Choose a color palette for your table elements, including headings, buttons, and fonts.
-     ![QuickOrder](/bigcommerce/images/appearance_setting.png)
-
-   * Click the **Save Palette** button to apply the selected colors.
+   * &#x20;button to apply the selected colors.
      ![QuickOrder](/bigcommerce/images/APS_SAVE.png)
-
-   * Once the palette is saved, the selected colors will be applied to various elements:
-
-     * Headings and Subheadings
-
-     * Fonts
-
-     * Reset Button
-
-     * Add to Cart Button (Item-Level)
-
-     * Add to Cart Button (Table-Level)
-
-   * For each element, you can select a specific color to ensure your product table matches your store's branding.
-
-   * You can also use **Restore Default** to revert to the default colors.
      ![QuickOrder](/bigcommerce/images/APS_Restore.png)
 
-6. **Save or Publish**:
+2.
+   ![QuickOrder](/bigcommerce/images/save\&cancel.png)
 
-   * After customizing your product table settings, you have two options:
-
-     * **Save as Draft**: Your product table will be saved as a draft in the Product Table queue.
-
-     * **Publish**: Your product table will become “Active” and ready to be added to your store.
-       ![QuickOrder](/bigcommerce/images/save\&cancel.png)
-
-7. **Copy Product ID**:
-
-   * Locate the Product ID under the Product ID section and copy it.
-     ![QuickOrder](/bigcommerce/images/table_idd.png)
+3. ![QuickOrder](/bigcommerce/images/table_idd.png)
 
 ### Embedding Product Table to Your Store:
 
