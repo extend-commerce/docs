@@ -104,15 +104,17 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
   * If there are errors in the file, you’ll see a notification at the top listing errors and their line numbers. A downloadable error report is also available.
 
-
-
 <Tip>
   **Note:** The maximum allowed size for the CSV file is 5 MB.
 </Tip>
 
+* **CSV Content Paste:**
 
+  * Use the text box to paste CSV content directly (formatted as SKU, Quantity, e.g., TSL-LM-A101, 9).
 
-# ![QuickOrder](/bigcommerce/images/app_collection.png)![QuickOrder](/bigcommerce/images/Product_table1.png)
+  * Click **Validate Content** to check the entries. If all SKUs and quantities are valid, you’ll proceed to a screen where you can choose which items to add to the cart.
+
+  * If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided.![QuickOrder](/bigcommerce/images/app_collection.png)![QuickOrder](/bigcommerce/images/Product_table1.png)
 
 #### Create a New Table:
 
