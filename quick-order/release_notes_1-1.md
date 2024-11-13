@@ -2,7 +2,7 @@
 title: "v1.1 - Release Notes"
 ---
 
-Here we go, with our first major update for the Quick Order app. Before we show and tell, I wanted to thank you, our amazing users, for your feedback and your patience with using a new app from the Shopify App Store.
+Here we go, with our first major update for the Quick Order app.
 
 We are hyper-focused on listening to our users and improving the app with major releases every month and minor releases every two weeks. We are always available for direct support and guarantee to resolve any and all issues within days.
 
@@ -27,6 +27,6 @@ With v1.1, we are bringing powerful new features that include UI enhancements, t
 * All of the tables are now **fully responsive**, no more custom CSS to adjust the width\!  
 * A number of bug fixes to improve **product load time**, **filtering**, **tags**, and **search**.
 
-As always, feel free to reach out (please do) if you need help with setting up, or if you face any issues with the app. You can also visit our help portal for in-depth guides to set things up.
+Email us at [support@extendcommerce.com](mailto:support@extendcommerce.com) if you need help with setting up, or if you face any issues with the app.
 
 Thanks for being a user\!
