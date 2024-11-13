@@ -76,19 +76,21 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 
 6\. **Save Settings**: Click this button to apply your Quick Order configurations.
 
-7\.  **To set up Quick Order on your store, follow these steps:**
+7\.  To set up Quick Order on your store:
 
 * **Add Quick Order App to Theme Customization**
 
   * Go to the theme customization of your current theme and navigate to the app section.
 
-  * Add a new block, then select the **Quick Order App** to integrate it into your store.
+  * Add a new block, then select the **Quick Order** App to integrate it into your store.
 
   * Save the theme customization to make Quick Order visible on your storefront.
 
 * **Using the Quick Order**
 
-  * On the store, an **Upload CSV** button will appear. Click this to open a dialog with two tabs: **File Upload** and **CSV Paste**.**a. File Upload**
+  * On the store, an **Upload CSV** button will appear. Click this to open a dialog with two tabs: **File Upload** and **CSV Paste**.
+
+    **a. File Upload**
 
   * Either drag and drop your CSV file or select it from your computer.
 
@@ -98,11 +100,7 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 
   * If there are errors in the file, you’ll see a notification at the top listing errors and their line numbers. A downloadable error report is also available.
 
-  * Use the text box to paste CSV content directly (formatted as SKU, Quantity, e.g., TSL-LM-A101, 9).
-
-  * Click **Validate Content** to check the entries. If all SKUs and quantities are valid, you’ll proceed to a screen where you can choose which items to add to the cart.
-
-  * If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided.**b. CSV Content Paste**
+    **b. CSV Content Paste**
 
   * Use the text box to paste CSV content directly (formatted as SKU, Quantity, e.g., TSL-LM-A101, 9).
 
