@@ -8,7 +8,6 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 
    * Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
 
-
 2. **Choose Product Table for Quick Order**
 
    * Click **Create Product Table** to navigate to the Product Table Settings page and set up a new table.
@@ -108,8 +107,6 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 <Tip>
   The maximum allowed size for the CSV file is 5 MB.
 </Tip>
-
-
 
 ***
 
