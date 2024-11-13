@@ -1,5 +1,5 @@
 ---
-title: "Quick Order v1.1 - Release Notes"
+title: "v1.1 - Release Notes"
 ---
 
 Here we go, with our first major update for the Quick Order app. Before we show and tell, I wanted to thank you, our amazing users, for your feedback and your patience with using a new app from the Shopify App Store.
@@ -10,19 +10,19 @@ With v1.1, we are bringing powerful new features that include UI enhancements, t
 
 * You can now choose how you want to **display product variants**, with three modes: grouped, ungrouped, and folded. Try them out in product table settings\!
 
-![Variant Grouping][./images/variant-grouping.gif] 
+![Variant Grouping](./images/variant-grouping.gif) 
 
 * One of the most requested feature – your customers can now place bulk orders via **CSV uploads** and **CSV pasting**. To make it even easier, we have included a template that they can download, fill in their data, and upload for swift ordering.
 
-![CSV Uploads][./images/upload-csv.gif]
+![CSV Uploads](./images/upload-csv.gif)
 
 * An **improved flow** to configure your bulk buying and quick ordering catalog. You can still create more product tables to be used anywhere on your store\!
 
-![Quick Order Setup][./images/quick-order-setup.png]
+![Quick Order Setup](./images/quick-order-setup.png)
 
 * We have made it easier for you to **select all products** when creating your quick order catalog or product table.
 
-![Select All Products][./images/select-all-products.png]
+![Select All Products](./images/select-all-products.png)
 
 * All of the tables are now **fully responsive**, no more custom CSS to adjust the width\!  
 * A number of bug fixes to improve **product load time**, **filtering**, **tags**, and **search**.
