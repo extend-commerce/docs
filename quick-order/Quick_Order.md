@@ -104,6 +104,14 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
   * If there are errors in the file, you’ll see a notification at the top listing errors and their line numbers. A downloadable error report is also available.
 
+
+
+<Tip>
+  Callout Content
+</Tip>
+
+
+
 # ![QuickOrder](/bigcommerce/images/app_collection.png)![QuickOrder](/bigcommerce/images/Product_table1.png)
 
 #### Create a New Table:
