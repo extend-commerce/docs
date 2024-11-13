@@ -78,13 +78,13 @@ title: "Quick Order Setup"
 
 5\. **Bulk Upload Products**
 
-1. **Upload via CSV File**: Upload a CSV file to add products to the cart.
+* **Upload via CSV File**: Upload a CSV file to add products to the cart.
 
-2. **Paste CSV Content**: Paste CSV data directly into the text editor.
+* **Paste CSV Content**: Paste CSV data directly into the text editor.
 
 6\. **Save Settings**: Click this button to apply your Quick Order configurations.
 
-7.**To set up Quick Order on your store, follow these steps:**
+7\. **To set up Quick Order on your store, follow these steps:**
 
 * **Add Quick Order App to Theme Customization**
 
