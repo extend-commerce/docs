@@ -72,18 +72,58 @@ title: "Quick Order Setup"
 
    * **Save as Draft**: Sets the product table to Draft status, making it unavailable for standalone use on the store until published.
 
-5. **Bulk Upload Products**
+<Tip>
+  Regardless of the status (Active or Draft), all product tables will still be available in **Quick Order Settings** and can be added to the Quick Order as needed.
+</Tip>
 
-   * **Upload via CSV File**: Upload a CSV file to add products to the cart.
+**5. Bulk Upload Products**
 
-   * **Paste CSV Content**: Paste CSV data directly into the text editor.
+1. **Upload via CSV File**: Upload a CSV file to add products to the cart.
 
-6. **Save Settings**: Click this button to apply your Quick Order configurations.
+2. **Paste CSV Content**: Paste CSV data directly into the text editor.
+
+**6. Save Settings**: Click this button to apply your Quick Order configurations.
+
+1. **To set up Quick Order on your store, follow these steps:**
+
+* **Add Quick Order App to Theme Customization**
+
+  * Go to the theme customization of your current theme and navigate to the app section.
+
+  * Add a new block, then select the **Quick Order App** to integrate it into your store.
+
+  * Save the theme customization to make Quick Order visible on your storefront.
+
+* **Using the Quick Order**
+
+  * On the store, an **Upload CSV** button will appear. Click this to open a dialog with two tabs: **File Upload** and **CSV Paste**.
+
+    **a. File Upload**
+
+  * Either drag and drop your CSV file or select it from your computer.
+
+  * A template is provided where you can enter SKUs and quantities. Products with matching SKUs in the product table will be added to the cart.
+
+  * If you want to manually upload a CSV file, ensure your CSV file contains two columns: SKU and Quantity.
+
+  * If there are errors in the file, you’ll see a notification at the top listing errors and their line numbers. A downloadable error report is also available.
+
+  * Use the text box to paste CSV content directly (formatted as SKU, Quantity, e.g., TSL-LM-A101, 9).
+
+  * Click **Validate Content** to check the entries. If all SKUs and quantities are valid, you’ll proceed to a screen where you can choose which items to add to the cart.
+
+  * If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided.
+
+    **b. CSV Content Paste**
+
+  * Use the text box to paste CSV content directly (formatted as SKU, Quantity, e.g., TSL-LM-A101, 9).
+
+  * Click **Validate Content** to check the entries. If all SKUs and quantities are valid, you’ll proceed to a screen where you can choose which items to add to the cart.
+
+  * If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided
+
+
 
 ***
 
 ## title: "Quick Order Setup"
-
-<Tip>
-  If you’ve previously created product tables, they will appear in a dropdown menu where you can select which table(s) to display in the Quick Order.
-</Tip>
