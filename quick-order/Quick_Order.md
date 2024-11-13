@@ -107,7 +107,7 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 
 <Tip>
-  Callout Content
+  **Note:** The maximum allowed size for the CSV file is 5 MB.
 </Tip>
 
 
