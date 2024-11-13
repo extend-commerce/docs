@@ -80,8 +80,6 @@ This section helps you set up Quick Order feature for bulk buying which allows c
 
 1. **Setup Quick Order on Your Store**: To set up Quick Order on your store, follow these steps:
 
-*
-
 * **Add Quick Order App to Theme Customization:**
 
   * Go to the theme customization of your current theme and navigate to the app section.
