@@ -15,6 +15,7 @@ title: "Quick Order Setup"
 3. **Setting Up Product Table for Quick Order**
 
    * Once on the Product Table Settings page, you can customize your product table through the following tabs:
+
      **a. General Settings**
 
    * **Table Name**: Provide a name for your product table.
@@ -37,7 +38,8 @@ title: "Quick Order Setup"
 
    * **Enable Image Lightbox**: Allows larger image views upon clicking product images.
 
-   * **Products per Page**: Set the number of products displayed on each page.
+   * **Products per Page**: Set the number of products displayed on each page.&#x20;
+
      **b. Products Tab**
 
    * **Display Product Selection**: Choose whether to display all products or only specific collections.
@@ -45,6 +47,7 @@ title: "Quick Order Setup"
    * **Selected Collections**: If opting for specific products, choose collections from a dropdown menu.
 
    * **Preview Products**: Click the eye icon to preview products within each collection.
+
      **c. Columns & Filters**
 
    * **Available Columns**: Select which columns to display from available product attributes, such as:
@@ -54,6 +57,7 @@ title: "Quick Order Setup"
    * **Filters**: Select checkboxes beside columns to enable filtering based on that column’s values.
 
    * **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.
+
      **d. Appearance**
 
    * **Color Palette**: Choose colors for table elements like headings, buttons, and fonts.
@@ -76,11 +80,9 @@ title: "Quick Order Setup"
 
 6. **Save Settings**: Click this button to apply your Quick Order configurations.
 
----
-title: "Quick Order Setup"
----
+***
 
-
+## title: "Quick Order Setup"
 
 <Tip>
   If you’ve previously created product tables, they will appear in a dropdown menu where you can select which table(s) to display in the Quick Order.
