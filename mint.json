@@ -70,6 +70,11 @@
         "quick-order/Getting_Started",
         "quick-order/Quick_Order"
       ]
+      "group": "Release Notes",
+      "pages": [
+        "quick-order/Getting_Started",
+        "quick-order/Quick_Order"
+      ]
     },
     {
       "group": "Release Notes",
