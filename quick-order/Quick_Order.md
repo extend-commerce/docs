@@ -6,17 +6,11 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 1. **Enable Quick Order:**  Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
 
-2. **Choose Product Table for Quick Order**
+2. **Choose Product Table for Quick Order**: Click **Create Product Table** to navigate to the Product Table Settings page and set up a new table&#x20;
 
-* Click **Create Product Table** to navigate to the Product Table Settings page and set up a new table&#x20;
+3. **Setting Up Product Table for Quick Order:** Once on the Product Table Settings page, you can customize your product table through the following tabs:
 
-* If you’ve previously created product tables, they will appear in a dropdown menu where you can select which table(s) to display in the Quick Order
-
-1. **Setting Up Product Table for Quick Order**
-
-* Once on the Product Table Settings page, you can customize your product table through the following tabs:
-
-&#x20;      **General Settings**
+* **General Settings**
 
 * **Table Name**: Provide a name for your product table.
 
@@ -40,7 +34,7 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 * **Products per Page**: Set the number of products displayed on each page.
 
-&#x20;     **Products Tab**
+* **Products Tab**
 
 * **Display Product Selection**: Choose whether to display all products or only specific collections.
 
@@ -48,7 +42,7 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 * **Preview Products**: Click the eye icon to preview products within each collection.
 
-&#x20;     **Columns & Filters**
+* **Columns & Filters**
 
 * **Available Columns**: Select which columns to display from available product attributes, such as:
 
@@ -58,7 +52,7 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 * **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.
 
-&#x20;     **Appearance**
+* **Appearance**
 
 * **Color Palette**: Choose colors for table elements like headings, buttons, and fonts.
 
@@ -72,9 +66,11 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 * **Save as Draft**: Sets the product table to **Draft** status, making it unavailable for standalone use on the store until published.
 
-<Check>
-  **Note:** Regardless of the status (Active or Draft), all product tables will still be available in **Quick Order Settings** and can be added to the Quick Order as needed.
-</Check>
+<Tip>
+  If you’ve previously created product tables, they will appear in a dropdown menu where you can select which table(s) to display in the Quick Order.
+
+
+</Tip>
 
 1. **Bulk Upload Products:** Allows customers to add multiple products to their cart at once.
 
@@ -86,9 +82,7 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 2. **Setting Up Quick Order on Your Store**
 
-
-![QuickOrder](/bigcommerce/images/app_collection.png)![QuickOrder](/bigcommerce/images/Product_table1.png)
-==========================================================================================================
+# ![QuickOrder](/bigcommerce/images/app_collection.png)![QuickOrder](/bigcommerce/images/Product_table1.png)
 
 #### Create a New Table:
 
@@ -151,15 +145,13 @@ This section helps you set up Quick Order for bulk buying which allows customers
      * Delete columns if necessary. You can have up to 5 columns in your product table.
        ![QuickOrder](/bigcommerce/images/Delete.coloumn.png)
 
-     *
-       ![QuickOrder](/bigcommerce/images/appearance_setting.png)
+     * ![QuickOrder](/bigcommerce/images/appearance_setting.png)
 
    * &#x20;button to apply the selected colors.
      ![QuickOrder](/bigcommerce/images/APS_SAVE.png)
      ![QuickOrder](/bigcommerce/images/APS_Restore.png)
 
-2.
-   ![QuickOrder](/bigcommerce/images/save\&cancel.png)
+2. ![QuickOrder](/bigcommerce/images/save\&cancel.png)
 
 3. ![QuickOrder](/bigcommerce/images/table_idd.png)
 
