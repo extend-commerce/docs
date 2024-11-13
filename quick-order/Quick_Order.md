@@ -80,7 +80,29 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 1. **Save Settings**: Click this button to apply your Quick Order configurations.
 
-2. **Setting Up Quick Order on Your Store**
+2.  **Setup Quick Order on Your Store**: To set up Quick Order on your store, follow these steps:
+
+3. **Add Quick Order App to Theme Customization:**
+
+   * Go to the theme customization of your current theme and navigate to the app section.
+
+   * Add a new block, then select the **Quick Order** App to integrate it into your store.
+
+   * Save the theme customization to make the Quick Order visible on your storefront.
+
+4. **Using the Quick Order:**
+
+   * On the store, an **Upload CSV** button will appear. Click this to open a dialog with two tabs: **File Upload** and **CSV Paste**.
+
+5. **File Upload:**
+
+   * Either drag and drop your CSV file or select it from your computer.
+
+   * A template is provided where you can enter SKUs and quantities. Products with matching SKUs in the product table will be added to the cart.
+
+   * If you want to manually upload a CSV file, ensure your CSV file contains two columns: SKU and Quantity.
+
+   * If there are errors in the file, you’ll see a notification at the top listing errors and their line numbers. A downloadable error report is also available.
 
 # ![QuickOrder](/bigcommerce/images/app_collection.png)![QuickOrder](/bigcommerce/images/Product_table1.png)
 
