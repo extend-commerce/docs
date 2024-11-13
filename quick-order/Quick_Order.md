@@ -100,7 +100,7 @@ This section helps you set up Quick Order feature for bulk buying which allows c
 
   * If you want to manually upload a CSV file, ensure your CSV file contains two columns: SKU and Quantity.
 
-  * If there are errors in the file, you’ll see a notification at the top listing errors and their line numbers. A downloadable error report is also available.
+  * If there are errors in the file, you’ll see a notification at the top listing errors and their line numbers. A downloadable error report is also available
 
 <Tip>
   **Note:** The maximum allowed size for the CSV file is 5 MB.
