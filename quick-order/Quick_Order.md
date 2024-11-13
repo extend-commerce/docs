@@ -2,7 +2,7 @@
 title: "Quick Order Setup"
 ---
 
-This section helps you set up Quick Order for bulk buying which allows customers to add products to the cart in bulk via CSV upload. Follow these steps:
+This section helps you set up Quick Order feature for bulk buying which allows customers to add products to the cart in bulk via CSV upload. Follow these steps:
 
 1. **Enable Quick Order:**  Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
 
@@ -62,14 +62,12 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 * Once all settings are configured, click either **Save & Publish** or **Save as Draft**:
 
-* **Save & Publish**: Sets the product table to **Active** status, allowing it to be added to any part of your store outside of Quick Order if needed. The table will be fully accessible within your store.
+  * **Save & Publish**: Sets the product table to **Active** status, allowing it to be added to any part of your store outside of Quick Order if needed. The table will be fully accessible within your store.
 
-* **Save as Draft**: Sets the product table to **Draft** status, making it unavailable for standalone use on the store until published.
+  * **Save as Draft**: Sets the product table to **Draft** status, making it unavailable for standalone use on the store until published.
 
 <Tip>
   If you’ve previously created product tables, they will appear in a dropdown menu where you can select which table(s) to display in the Quick Order.
-
-
 </Tip>
 
 1. **Bulk Upload Products:** Allows customers to add multiple products to their cart at once.
@@ -78,9 +76,11 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 * **Paste CSV Content**: Paste CSV data directly into the text editor.
 
-1. **Save Settings**: Click this button to apply your Quick Order configurations.
+* **Save Settings:** Click this button to apply your Quick Order configurations.
 
-2.  **Setup Quick Order on Your Store**: To set up Quick Order on your store, follow these steps:
+1. **Setup Quick Order on Your Store**: To set up Quick Order on your store, follow these steps:
+
+*
 
 * **Add Quick Order App to Theme Customization:**
 
@@ -118,8 +118,6 @@ This section helps you set up Quick Order for bulk buying which allows customers
 
 <Tip>
   You can only add one Quick Order form to any location on your store at a time. Multiple Quick Order forms cannot be added to the same area.
-
-
 </Tip>
 
 ![QuickOrder](/bigcommerce/images/Product_table1.png)
