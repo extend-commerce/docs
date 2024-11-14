@@ -18,12 +18,11 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 
 Once on the **Product Table Settings** page:
 
-- Enter the name of your product table. 
+- **Table Name**: Provide a name for your product table.
 - You can further customize your product table using the following tabs:
 
 ### a. **General Settings**
 
-- **Table Name**: Provide a name for your product table.
 - **Description**: Enter a brief description of the table’s purpose.
 - **Variants Display Mode**: Choose how variants will display:
   - **Ungrouped**: All variants are displayed as separate items.
