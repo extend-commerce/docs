@@ -14,7 +14,6 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 - Click **Create Product Table** to navigate to the Product Table Settings page and set up a new table.
 ![Quick_Order_Setup](./images/quick-2.png)
 
-
 ## 3. **Setting Up Product Table for Quick Order**
 
 Once on the **Product Table Settings** page:
@@ -105,9 +104,10 @@ Click this button to apply your Quick Order configurations.
 
 - Add a new block, then select the **Quick Order** App to integrate it into your store.
   ![Quick_Order_Setup](./images/quick-21.png)
+  ![Quick_Order_Setup](./images/quick-22.png)
 
 - Save the theme customization to make Quick Order visible on your storefront.
-  ![Quick_Order_Setup](./images/quick-22.png)
+  ![Quick_Order_Setup](./images/quick-31.png)
 
 ### Using the Quick Order
 

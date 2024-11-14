@@ -7,94 +7,103 @@ This guide will help you set up, manage, and customize product tables for your s
 * Go to the **Manage Product Tables** section of your application.
 
 * Click **Add Product Table** to navigate to the **Product Table Configuration** screen.
+![Quick_Order_Setup](./images/quick-30.png)
 
 ### 2. Customize Your Product Table
 
-On the **Product Table Settings** page, you can configure various options across multiple tabs:
+Once on the **Product Table Settings** page:
 
-#### **General Settings**
+- **Table Name**: Provide a name for your product table.
+![Quick_Order_Setup](./images/quick-3.png)
 
-* **Table Name**: Provide a unique name for your product table.
+- You can further customize your product table using the following tabs:
 
-* **Description**: Add a brief description of the table’s purpose or use.
+### a. **General Settings**
 
-* **Variants Display Mode**: Choose how product variants will appear in the table:
+- **Description**: Enter a brief description of the table’s purpose.
+![Quick_Order_Setup](./images/quick-4.png)
 
-  * **Ungrouped**: All variants displayed as separate items.
+- **Variants Display Mode**: Choose how variants will display:
+  - **Ungrouped**: All variants are displayed as separate items.
+  - **Grouped**: A variant selection column is added, allowing customers to choose and add specific variants to their cart.
+  - **Folded**: Variants are hidden under a parent product until clicked, displaying variants in an accordion-style view.
 
-  * **Grouped**: Variants are listed with an option to select from a dropdown.
+  ![Quick_Order_Setup](./images/variant-grouping.gif)
 
-  * **Folded**: Variants are hidden under a parent product and revealed when clicked.
+- **Enable Search**: Allows customers to search for products within the table.
+![Quick_Order_Setup](./images/quick-5.png)
 
-* **Enable Search**: Allow customers to search for products within the table.
+- **Enable Filters**: Provides customers with filter options for more intuitive browsing.
+![Quick_Order_Setup](./images/quick-6.png)
 
-* **Enable Filters**: Enable filters for better product browsing and navigation.
+- **Enable Add to Cart**: Choose whether to enable “Add to Cart” functionality at the item level, table level, or both (enabled by default).
+![Quick_Order_Setup](./images/quick-7.png)
+- **Enable Image Lightbox**: Enable image lightbox for larger image views.
+![Quick_Order_Setup](./images/quick-8.png)
+- **Products per Page**: Define the number of products to display per page.
+![Quick_Order_Setup](./images/quick-9.png)
 
-* **Enable Add to Cart**: Choose where the "Add to Cart" functionality is applied:
+### b. **Products Tab**
 
-  * **Item Level**: Allows adding individual items to the cart.
+- **Display Product Selection**: Choose whether to display all products or only specific collections.
+- **Selected Collections**: If opting for specific products, choose collections from a dropdown menu.
+![Quick_Order_Setup](./images/quick-11.png)
 
-  * **Table Level**: Allows adding all selected items at once.
+- **Preview Products**: Click the eye icon to preview products within each collection.
+![Quick_Order_Setup](./images/quick-12.png)
 
-  * **Both** (default): Enables both options.
+### c. **Columns & Filters**
 
-* **Enable Image Lightbox**: Lets customers view larger images when they click on product images.
+- **Available Columns**: Select which columns to display from available product attributes, such as:
+  - Product Type, Status, Tags, Vendor, Barcode, Compare at Price, Price, SKU, Published At, Category, Inventory Quantity, Tax Code, Taxable.
+  ![Quick_Order_Setup](./images/quick-13.png)
+- **Label and Filters**: Enter a label name that will be displayed for the column in the table, and check the box under "Filters" to enable filtering based on that column’s values.
+  ![Quick_Order_Setup](./images/quick-14.png)
+- **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.
+  ![Quick_Order_Setup](./images/quick-15.gif)
 
-* **Products per Page**: Set the number of products displayed per page.
+### d. **Appearance**
 
-#### **Products Tab**
+- **Color Palette**: Choose colors for table elements like headings, buttons, and fonts.
+- **Save Palette**: Save your customized palette; all elements will update to match.
+- **Restore Default**: Reset to the default color palette if needed.
+  ![Quick_Order_Setup](./images/quick-16.gif)
 
-* **Display Product Selection**: Choose whether to display products from all collections or select specific collections.
+## 4. **Save Settings**
 
-* **Selected Collections**: If you choose to display specific collections, select them from a dropdown menu.
-
-* **Preview Products**: Click the **eye icon** to preview products in each collection.
-
-#### **Columns & Filters**
-
-* **Available Columns**: Choose the columns you want to display, such as Product Type, Status, Price, SKU, Vendor, etc.
-
-* **Filters**: Enable filtering based on column values, such as Product Type or Price Range.
-
-* **Column Management**: Drag and drop to rearrange column order or remove unnecessary columns. (The **Title** column is mandatory and cannot be removed.)
-
-#### **Appearance**
-
-* **Color Palette**: Customize the colors for table elements like headings, buttons, and fonts.
-
-* **Save Palette**: Save your customized color palette so that all elements automatically update.
-
-* **Restore Default**: Reset to the default color palette at any time.
-
-### 3. Save Your Table
-
-Once you're happy with your configuration, you can save your product table:
-
-* **Save & Publish**: Activates the product table and makes it accessible throughout your store.
-
-* **Save as Draft**: Keeps the table in draft mode, making it unavailable until you're ready to publish it.
+- **Save & Publish**: Sets the product table to Active status, allowing it to be added to any part of your store outside of Quick Order if needed. The table will be fully accessible within your store.
+- **Save as Draft**: Sets the product table to Draft status, making it unavailable for standalone use on the store until published.
+  ![Quick_Order_Setup](./images/quick-17.png)
 
 ## How to Embed a Product Table in Your Store
 
-You can easily embed your product table anywhere in your store by adding its unique Product Table ID.
+You can easily embed your product table anywhere in your store by adding its unique Product Table ID in your theme customization settings.
 
-### 1. Access Theme Customization
+### 1. Locate Product ID
+* You can find the **unique Product ID** for each product listed in the **Manage Product Tables** section. This ID is displayed alongside other product details and serves as a unique identifier for each product in the system.
+![Quick_Order_Setup](./images/quick-39.png)
+
+### 2. Access Theme Customization
 
 * Navigate to your store's **Theme Customization** section.
+  ![Quick_Order_Setup](./images/quick-20.png)
 
 ### 2. Add the Product Table App Block
 
 * Under the **App** section, click **Add New Block** and select the **Product Table App** block.
+  ![Quick_Order_Setup](./images/quick-22.png)
 
 ### 3. Paste the Product Table ID
 
 * Click on the newly added **Product Table App** block.
 
 * Paste the unique Product Table ID you copied earlier into the appropriate field.
+  ![Quick_Order_Setup](./images/quick-32.png)
 
 ### 4. Save Your Changes
 
 * Click **Save** to apply the changes to your store’s theme.
+  ![Quick_Order_Setup](./images/quick-31.png)
 
 ## How to Edit or Delete a Product Table
 
@@ -103,15 +112,37 @@ You can easily embed your product table anywhere in your store by adding its uni
 1. Go to the **Manage Product Tables** section.
 
 2. Find the table you want to edit and click the **Edit** icon under **Actions**.
+  ![Quick_Order_Setup](./images/quick-31.png)
 
 3. You will be taken to the Product Table Configuration screen, where you can make changes.
+  ![Quick_Order_Setup](./images/quick-35.png)
 
 ### Delete Product Table
 
 1. In the **Manage Product Tables** section, find the table you want to delete.
 
 2. Click the **Delete** icon under **Actions**.
+  ![Quick_Order_Setup](./images/quick-34.png)
 
 3. Confirm the deletion when prompted. Please note that once deleted, this action cannot be undone.
+  ![Quick_Order_Setup](./images/quick-36.png)
+
+### Searching and Sorting 
+1. **Search Functionality**  
+   You can easily search for products within the management screen. The search results will be displayed dynamically as you type, providing quick and relevant matches based on your query.
+   ![Quick_Order_Setup](./images/quick-37.gif)
+
+2. **Sorting Options**  
+   The product table can be sorted based on the following criteria:
+   
+   - **Name**: Sort the products alphabetically in either:
+     - **Ascending Order** (A-Z)
+     - **Descending Order** (Z-A)
+
+   - **Published Date**: Sort the products by their published date in either:
+     - **Newest First** (most recent publication date)
+     - **Oldest First** (earliest publication date)
+     ![Quick_Order_Setup](./images/quick-38.gif)
+
 
 By following these steps, you can quickly add, edit, or embed a product table in your store, making it easier for customers to browse and purchase products. If you need further assistance, feel free to reach out to our support team.
