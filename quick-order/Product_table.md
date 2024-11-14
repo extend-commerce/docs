@@ -9,6 +9,11 @@ This guide will help you set up, manage, and customize product tables for your s
 ## How to Add a Product Table
 
 ### 1. Access Product Table Management
+<<<<<<< HEAD
+- Go to the **Manage Product Tables** section of your application.
+- Click **Add Product Table** to navigate to the **Product Table Configuration** screen
+=======
+>>>>>>> f7fbcb5e9a68d4cb30d3523f8b86385e728b1507
 
 * Go to the **Manage Product Tables** section of your application.
 
