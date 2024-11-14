@@ -17,7 +17,7 @@ In addition to the Quick Order feature, **Product Tables** provide a way to mana
 
 You can also opt to use just the product tables without the Quick Order feature, which is perfect for showcasing specific product collections directly in your store and adding them to the cart in bulk with a click. These tables can be fully customized to meet your needs, whether for specific product groups or larger catalog displays.
 
-### Use Cases:
+### Use Cases for Product Tables:
 - **Bulk Ordering with Product Tables**: If you have multiple product tables set up, customers can quickly browse and add products to their cart from any of them.
 - **Customizing Product Displays**: If you have different types of products or need to organize them into distinct collections (e.g., seasonal items, wholesale products), product tables give you full flexibility to display and manage them in a user-friendly table format.
 - **No Quick Order Needed?**: If you prefer not to use the Quick Order feature but still want a fast way to add products to the cart, using standalone product tables can give you the same efficiency and customization, minus the CSV upload feature.
