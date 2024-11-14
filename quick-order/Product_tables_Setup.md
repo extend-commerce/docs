@@ -88,19 +88,19 @@ You can easily embed your product table anywhere in your store by adding its uni
 * Navigate to your store's **Theme Customization** section.
   ![Quick_Order_Setup](./images/quick-20.png)
 
-### 2. Add the Product Table App Block
+### 3. Add the Product Table App Block
 
 * Under the **App** section, click **Add New Block** and select the **Product Table App** block.
-  ![Quick_Order_Setup](./images/quick-22.png)
+  ![Quick_Order_Setup](./images/quick-40.png)
 
-### 3. Paste the Product Table ID
+### 4. Paste the Product Table ID
 
 * Click on the newly added **Product Table App** block.
 
 * Paste the unique Product Table ID you copied earlier into the appropriate field.
   ![Quick_Order_Setup](./images/quick-32.png)
 
-### 4. Save Your Changes
+### 5. Save Your Changes
 
 * Click **Save** to apply the changes to your store’s theme.
   ![Quick_Order_Setup](./images/quick-31.png)
@@ -112,7 +112,7 @@ You can easily embed your product table anywhere in your store by adding its uni
 1. Go to the **Manage Product Tables** section.
 
 2. Find the table you want to edit and click the **Edit** icon under **Actions**.
-  ![Quick_Order_Setup](./images/quick-31.png)
+  ![Quick_Order_Setup](./images/quick-33.png)
 
 3. You will be taken to the Product Table Configuration screen, where you can make changes.
   ![Quick_Order_Setup](./images/quick-35.png)
