@@ -24,8 +24,6 @@ Once on the **Product Table Settings** page:
 
 - You can further customize your product table using the following tabs:
 
-* You can further customize your product table using the following tabs:
-
 ### a. **General Settings**
 
 - **Description**: Enter a brief description of the table’s purpose.
@@ -45,8 +43,6 @@ Once on the **Product Table Settings** page:
 ![Quick_Order_Setup](./images/quick-6.png)
 
 - **Enable Add to Cart**: Choose whether to enable “Add to Cart” functionality at the item level, table level, or both (enabled by default).
-- **Enable Image Lightbox**: Allows larger image views upon clicking product images.
-- **Products per Page**: Set the number of products displayed on each page.
 ![Quick_Order_Setup](./images/quick-7.png)
 - **Enable Image Lightbox**: Enable image lightbox for larger image views.
 ![Quick_Order_Setup](./images/quick-8.png)
@@ -95,8 +91,6 @@ Once on the **Product Table Settings** page:
 - **Paste CSV Content**: Paste CSV data directly into the text editor.
   ![Quick_Order_Setup](./images/quick-18.png)
 
-* **Paste CSV Content**: Paste CSV data directly into the text editor.
-
 ## 6. **Save Settings**
 
 Click this button to apply your Quick Order configurations.
@@ -114,10 +108,6 @@ Click this button to apply your Quick Order configurations.
 
 - Save the theme customization to make Quick Order visible on your storefront.
   ![Quick_Order_Setup](./images/quick-22.png)
-
-* Add a new block, then select the **Quick Order** App to integrate it into your store.
-
-* Save the theme customization to make Quick Order visible on your storefront.
 
 ### Using the Quick Order
 
