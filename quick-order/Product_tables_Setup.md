@@ -1,5 +1,3 @@
-#
-
 This guide will help you set up, manage, and customize product tables for your store. Whether you want to use product tables outside of the Quick Order flow or just need a table to add products to your cart quickly, you can easily manage these tables within our application.
 
 ## How to Add a Product Table
