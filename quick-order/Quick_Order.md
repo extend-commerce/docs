@@ -6,7 +6,7 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 
 1. **Enable Quick Order**
 
-   * Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled..
+   * Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
 
 2. **Choose Product Table for Quick Order**
 
@@ -96,11 +96,15 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 
   * If you want to manually upload a CSV file, ensure your CSV file contains two columns: SKU and Quantity.
 
+  * Once the CSV file is successfully uploaded without any errors, you will be directed to an intermediary screen where you can select the items you wish to add to your cart.
+
   * If there are errors in the file, you’ll see a notification at the top listing errors and their line numbers. A downloadable error report is also available.**b. CSV Content Paste**
 
   * Use the text box to paste CSV content directly (formatted as SKU, Quantity, e.g., TSL-LM-A101, 9).
 
   * Click **Validate Content** to check the entries. If all SKUs and quantities are valid, you’ll proceed to a screen where you can choose which items to add to the cart.
+  
+  * Once the CSV content is successfully validated without any errors, you will be directed to an intermediary screen where you can select the items you wish to add to your cart.
 
   * If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided.
 
