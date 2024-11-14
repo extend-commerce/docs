@@ -68,9 +68,7 @@
       "group": "Quick Order",
       "pages": [
         "quick-order/Getting_Started",
-        "quick-order/Dashboard_Overview",
-        "quick-order/Quick_Order"
-
+        "quick-order/Dashboard_Overview"
       ]
     },
     {
