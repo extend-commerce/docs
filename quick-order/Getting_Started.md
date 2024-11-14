@@ -15,5 +15,3 @@ The **Quick Order - B2B & Wholesale** app simplifies bulk purchasing for your wh
 5. **Authorize Permissions**: Review the requested permissions and click "Install" to grant access and install the 'Quick Order ‑ B2B & Wholesale' app on your store.
 
 ***
-
-## title: "Quick Order Setup"
