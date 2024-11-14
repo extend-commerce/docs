@@ -105,6 +105,11 @@ You can easily embed your product table anywhere in your store by adding its uni
 * Click **Save** to apply the changes to your store’s theme.
   ![Quick_Order_Setup](./images/quick-31.png)
 
+### 6. Product Table Display in Your Store
+
+* Once configured, the product table will appear in your store with the settings you’ve selected, including search options, filters, columns, and any variants you've set up earlier.
+  ![Quick_Order_Setup](./images/quick-42.png)
+
 ## How to Edit or Delete a Product Table
 
 ### Edit Product Table
