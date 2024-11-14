@@ -1,4 +1,4 @@
-The dashboard is divided into two key sections:[ **Quick Order Setup**](https://) and [**Manage Product Tables**](https://docs.extendcommerce.com/quick-order/Product_tables_Setup), each designed to streamline your ordering processes.
+The dashboard is divided into two key sections:[ **Quick Order Setup**](https://docs.extendcommerce.com/quick-order/Quick_Order_Setup) and [**Manage Product Tables**](https://docs.extendcommerce.com/quick-order/Product_Tables_Setup), each designed to streamline your ordering processes.
 
 ## Quick Order Setup
 
