@@ -6,25 +6,73 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 
 ## 1. **Enable Quick Order**
 
+<<<<<<< HEAD
+- Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
+![Quick_Order_Setup](./images/quick-1.png)
+=======
 * Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
   ![Quick\_Order\_Setup](./images/.png)
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 
 ## 2. **Choose Product Table for Quick Order**
 
+<<<<<<< HEAD
+- Click **Create Product Table** to navigate to the Product Table Settings page and set up a new table.
+![Quick_Order_Setup](./images/quick-2.png)
+=======
 * Click **Create Product Table** to navigate to the Product Table Settings page and set up a new table.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
+
 
 ## 3. **Setting Up Product Table for Quick Order**
 
 Once on the **Product Table Settings** page:
 
+<<<<<<< HEAD
+- **Table Name**: Provide a name for your product table.
+![Quick_Order_Setup](./images/quick-3.png)
+
+- You can further customize your product table using the following tabs:
+=======
 * **Table Name**: Provide a name for your product table.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 
 * You can further customize your product table using the following tabs:
 
 ### a. **General Settings**
 
-* **Description**: Enter a brief description of the table’s purpose.
+<<<<<<< HEAD
+- **Description**: Enter a brief description of the table’s purpose.
+![Quick_Order_Setup](./images/quick-4.png)
 
+- **Variants Display Mode**: Choose how variants will display:
+  - **Ungrouped**: All variants are displayed as separate items.
+  - **Grouped**: A variant selection column is added, allowing customers to choose and add specific variants to their cart.
+  - **Folded**: Variants are hidden under a parent product until clicked, displaying variants in an accordion-style view.
+
+  ![Quick_Order_Setup](./images/variant-grouping.gif)
+
+- **Enable Search**: Allows customers to search for products within the table.
+![Quick_Order_Setup](./images/quick-5.png)
+
+- **Enable Filters**: Provides customers with filter options for more intuitive browsing.
+![Quick_Order_Setup](./images/quick-6.png)
+
+- **Enable Add to Cart**: Choose whether to enable “Add to Cart” functionality at the item level, table level, or both (enabled by default).
+- **Enable Image Lightbox**: Allows larger image views upon clicking product images.
+- **Products per Page**: Set the number of products displayed on each page.
+![Quick_Order_Setup](./images/quick-7.png)
+- **Enable Image Lightbox**: Enable image lightbox for larger image views.
+![Quick_Order_Setup](./images/quick-8.png)
+- **Products per Page**: Define the number of products to display per page.
+![Quick_Order_Setup](./images/quick-9.png)
+=======
+* **Description**: Enter a brief description of the table’s purpose.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
+
+<<<<<<< HEAD
+
+=======
 * **Variants Display Mode**: Choose how variants will display:
 
   * **Ungrouped**: All variants are displayed as separate items.
@@ -43,17 +91,41 @@ Once on the **Product Table Settings** page:
 
 * **Products per Page**: Set the number of products displayed on each page.
 
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 ### b. **Products Tab**
 
-* **Display Product Selection**: Choose whether to display all products or only specific collections.
+<<<<<<< HEAD
+- **Display Product Selection**: Choose whether to display all products or only specific collections.
+- **Selected Collections**: If opting for specific products, choose collections from a dropdown menu.
+![Quick_Order_Setup](./images/quick-11.png)
 
+- **Preview Products**: Click the eye icon to preview products within each collection.
+![Quick_Order_Setup](./images/quick-12.png)
+=======
+* **Display Product Selection**: Choose whether to display all products or only specific collections.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
+
+<<<<<<< HEAD
+
+=======
 * **Selected Collections**: If opting for specific products, choose collections from a dropdown menu.
 
 * **Preview Products**: Click the eye icon to preview products within each collection.
 
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 ### c. **Columns & Filters**
 
+<<<<<<< HEAD
+- **Available Columns**: Select which columns to display from available product attributes, such as:
+  - Product Type, Status, Tags, Vendor, Barcode, Compare at Price, Price, SKU, Published At, Category, Inventory Quantity, Tax Code, Taxable.
+  ![Quick_Order_Setup](./images/quick-13.png)
+- **Label and Filters**: Enter a label name that will be displayed for the column in the table, and check the box under "Filters" to enable filtering based on that column’s values.
+  ![Quick_Order_Setup](./images/quick-14.png)
+- **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.
+  ![Quick_Order_Setup](./images/quick-15.gif)
+=======
 * **Available Columns**: Select which columns to display from available product attributes, such as:
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 
   * Product Type, Status, Tags, Vendor, Barcode, Compare at Price, Price, SKU, Published At, Category, Inventory Quantity, Tax Code, Taxable
 
@@ -63,11 +135,29 @@ Once on the **Product Table Settings** page:
 
 ### d. **Appearance**
 
+<<<<<<< HEAD
+- **Color Palette**: Choose colors for table elements like headings, buttons, and fonts.
+- **Save Palette**: Save your customized palette; all elements will update to match.
+- **Restore Default**: Reset to the default color palette if needed.
+  ![Quick_Order_Setup](./images/quick-16.gif)
+=======
 * **Color Palette**: Choose colors for table elements like headings, buttons, and fonts.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 
+<<<<<<< HEAD
+
+## 4. **Once all settings are configured, click either Save & Publish or Save as Draft:**
+=======
 * **Save Palette**: Save your customized palette; all elements will update to match.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 
+<<<<<<< HEAD
+- **Save & Publish**: Sets the product table to Active status, allowing it to be added to any part of your store outside of Quick Order if needed. The table will be fully accessible within your store.
+- **Save as Draft**: Sets the product table to Draft status, making it unavailable for standalone use on the store until published.
+  ![Quick_Order_Setup](./images/quick-17.png)
+=======
 * **Restore Default**: Reset to the default color palette if needed.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 
 ## 4. Save Settings:&#x20;
 
@@ -82,19 +172,37 @@ Once on the **Product Table Settings** page:
 
 ## 5. **Bulk Upload Products**
 
+<<<<<<< HEAD
+- **Upload via CSV File**: Upload a CSV file to add products to the cart.
+- **Paste CSV Content**: Paste CSV data directly into the text editor.
+  ![Quick_Order_Setup](./images/quick-18.png)
+=======
 * **Upload via CSV File**: Upload a CSV file to add products to the cart.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 
 * **Paste CSV Content**: Paste CSV data directly into the text editor.
 
 ## 6. **Save Settings**
 
 Click this button to apply your Quick Order configurations.
+![Quick_Order_Setup](./images/quick-19.png)
 
 ## 7. **To Set Up Quick Order on Your Store:**
 
 ### Add Quick Order App to Theme Customization
 
+<<<<<<< HEAD
+- Go to the theme customization of your current theme and navigate to the app section.
+  ![Quick_Order_Setup](./images/quick-20.png)
+
+- Add a new block, then select the **Quick Order** App to integrate it into your store.
+  ![Quick_Order_Setup](./images/quick-21.png)
+
+- Save the theme customization to make Quick Order visible on your storefront.
+  ![Quick_Order_Setup](./images/quick-22.png)
+=======
 * Go to the theme customization of your current theme and navigate to the app section.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 
 * Add a new block, then select the **Quick Order** App to integrate it into your store.
 
@@ -102,11 +210,28 @@ Click this button to apply your Quick Order configurations.
 
 ### Using the Quick Order
 
-On the store, an **Upload CSV** button will appear. Click this to open a dialog with two tabs: **File Upload** and **CSV Paste**.
+- On the store, an **Upload CSV** button will appear. 
+  ![Quick_Order_Setup](./images/quick-23.png)
+
+- Click this to open a dialog with two tabs: **File Upload** and **CSV Paste**.
+  ![Quick_Order_Setup](./images/quick-23-1.png)
 
 #### a. **File Upload**
 
+<<<<<<< HEAD
+- Either drag and drop your CSV file or select it from your computer.
+- A template is provided where you can enter SKUs and quantities. Products with matching SKUs in the product table will be added to the cart.
+  ![Quick_Order_Setup](./images/quick-28.png)
+
+- If you want to manually upload a CSV file, ensure your CSV file contains two columns: SKU and Quantity.
+  ![Quick_Order_Setup](./images/quick-29.png)
+
+- Once the CSV file is successfully uploaded without any errors, you will be directed to an intermediary screen where you can select the items you wish to add to your cart.
+
+- If there are errors in the file, you’ll see a notification at the top listing errors and their line numbers. A downloadable error report is also available.
+=======
 * Either drag and drop your CSV file or select it from your computer.
+>>>>>>> 334e129fa06277338d1d141eb8ea4078fa444ddc
 
 * A template is provided where you can enter SKUs and quantities. Products with matching SKUs in the product table will be added to the cart.
 
