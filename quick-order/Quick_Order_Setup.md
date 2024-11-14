@@ -141,7 +141,7 @@ Click this button to apply your Quick Order configurations.
   ![Quick_Order_Setup](./images/quick-24.png)
 
 - Once the CSV content is successfully validated without any errors, you will be directed to an intermediary screen where you can select the items you wish to add to your cart.
-  ![Quick_Order_Setup](./images/quick-27.png)
+  ![Quick_Order_Setup](./images/quick-25.png)
 
 - If issues with SKUs are detected (e.g., missing SKUs), an error message and downloadable error report will be provided.
   ![Quick_Order_Setup](./images/quick-24.png)
