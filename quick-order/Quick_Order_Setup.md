@@ -7,6 +7,8 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 ## 1. **Enable Quick Order**
 
 - Check this box to activate the Quick Order feature on your store. By default, this option is enabled. If you uncheck it, the following settings will be disabled.
+![Quick_Order_Setup](./images/.png)
+
 
 ## 2. **Choose Product Table for Quick Order**
 
@@ -14,7 +16,10 @@ This guide walks you through setting up the Quick Order feature for bulk purchas
 
 ## 3. **Setting Up Product Table for Quick Order**
 
-Once on the **Product Table Settings** page, you can customize your product table through the following tabs:
+Once on the **Product Table Settings** page:
+
+- Enter the name of your product table. 
+- You can further customize your product table using the following tabs:
 
 ### a. **General Settings**
 
