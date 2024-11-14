@@ -97,7 +97,7 @@ You can easily embed your product table anywhere in your store by adding its uni
 
 * Click on the newly added **Product Table App** block.
 
-* Paste the unique Product Table ID you copied earlier into the appropriate field.
+* Paste the unique Product Table ID you copied in **Step 1** into the field shown and the Product Table will instantly be populated on the page.
   ![Quick_Order_Setup](./images/quick-32.png)
 
 ### 5. Save Your Changes
