@@ -74,8 +74,6 @@ Once you're happy with your configuration, you can save your product table:
 
 * **Save as Draft**: Keeps the table in draft mode, making it unavailable until you're ready to publish it.
 
-***
-
 ## How to Embed a Product Table in Your Store
 
 You can easily embed your product table anywhere in your store by adding its unique Product Table ID.
@@ -98,8 +96,6 @@ You can easily embed your product table anywhere in your store by adding its uni
 
 * Click **Save** to apply the changes to your store’s theme.
 
-***
-
 ## How to Edit or Delete a Product Table
 
 ### Edit Product Table
@@ -117,7 +113,5 @@ You can easily embed your product table anywhere in your store by adding its uni
 2. Click the **Delete** icon under **Actions**.
 
 3. Confirm the deletion when prompted. Please note that once deleted, this action cannot be undone.
-
-***
 
 By following these steps, you can quickly add, edit, or embed a product table in your store, making it easier for customers to browse and purchase products. If you need further assistance, feel free to reach out to our support team.
