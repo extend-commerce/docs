@@ -32,7 +32,7 @@ Our app synchronizes users from BigCommerce Customers. To ensure proper setup, f
    - Assign a Reporting Person to establish their reporting hierarchy
 ![UserManagement](./images/UM66.png)
 
-## Method 2: Adding Existing Users
+### Method 2: Adding Existing Users
 
 If you already have users in BigCommerce who aren't linked to any company:  
 
@@ -57,8 +57,8 @@ If you already have users in BigCommerce who aren't linked to any company:
 4. Update the necessary fields.
 5. Click the **Save** button.
 ![UserManagement](./images/UM6.png)
-## Deleting a User
 
+## Deleting a User
 1. Navigate to the company name from the company list.
 2. Select the **Company Users** tab.
 3. Click the trash can icon in the **Action** column for the user you wish to delete.
