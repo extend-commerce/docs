@@ -4,7 +4,7 @@ The dashboard is divided into two key sections:[ **Quick Order Setup**](https://
 
 ## Quick Order Setup
 
-Quick Order is a feature designed to make bulk purchasing faster and more efficient for your customers. By allowing them to upload or paste a CSV file with SKUs and quantities, Quick Order eases the process of adding multiple products to the cart without the need to browse through the store manually. This is especially useful for customers who place regular, large orders or need to reorder the same items frequently.
+Quick Order is a feature designed to make bulk purchasing faster and more efficient for your customers. By allowing them to upload or paste a CSV file with SKUs and quantities, Quick Order eases the process of adding multiple products to the cart without the need to browse through the store manually. This is especially useful for customers who place regular, large orders or need to reorder the same items frequently
 
 ### Use Cases for Quick Order:
 
