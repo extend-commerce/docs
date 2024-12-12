@@ -153,4 +153,4 @@ You can easily embed your product table anywhere in your store by adding its uni
      ![Quick_Order_Setup](./images/quick-38.gif)
 
 
-By following these steps, you can quickly add, edit, or embed a product table in your store, making it easier for customers to browse and purchase products. If you need further assistance, feel free to reach out to our support team.
+By following these steps, you can quickly add, edit, or embed a product table in your store, making it easier for customers to browse and purchase products. If you need further assistance, feel free to reach out to our support team...
