@@ -16,32 +16,35 @@ Once on the **Product Table Settings** page:
 - **Table Name**: Provide a name for your product table.
 ![Quick_Order_Setup](./images/quick-3.png)
 
-- You can further customize your product table using the following tabs:
+You can further customize your product table using the following tabs:
 
-### a. **General Settings**
+### i. **General Settings**
 
-- **Description**: Enter a brief description of the table’s purpose.
-![Quick_Order_Setup](./images/quick-4.png)
+a. **Description**: Enter a brief description of the table’s purpose.
+<!-- ![Quick_Order_Setup](./images/quick-4.png) -->
 
-- **Variants Display Mode**: Choose how variants will display:
+b. **Variants Display Mode**: Choose how variants will display:
   - **Ungrouped**: All variants are displayed as separate items.
   - **Grouped**: A variant selection column is added, allowing customers to choose and add specific variants to their cart.
   - **Folded**: Variants are hidden under a parent product until clicked, displaying variants in an accordion-style view.
 
-  ![Quick_Order_Setup](./images/variant-grouping.gif)
+  <!-- ![Quick_Order_Setup](./images/variant-grouping.gif) -->
 
-- **Enable Search**: Allows customers to search for products within the table.
-![Quick_Order_Setup](./images/quick-5.png)
+c. **Enable Search**: Allows customers to search for products within the table.
+<!-- ![Quick_Order_Setup](./images/quick-5.png) -->
 
-- **Enable Filters**: Provides customers with filter options for more intuitive browsing.
-![Quick_Order_Setup](./images/quick-6.png)
+d. **Enable Filters**: Provides customers with filter options for more intuitive browsing.
+<!-- ![Quick_Order_Setup](./images/quick-6.png) -->
 
-- **Enable Add to Cart**: Choose whether to enable “Add to Cart” functionality at the item level, table level, or both (enabled by default).
-![Quick_Order_Setup](./images/quick-7.png)
-- **Enable Image Lightbox**: Enable image lightbox for larger image views.
-![Quick_Order_Setup](./images/quick-8.png)
-- **Products per Page**: Define the number of products to display per page.
-![Quick_Order_Setup](./images/quick-9.png)
+<!-- - **Enable Add to Cart**: Choose whether to enable “Add to Cart” functionality at the item level, table level, or both (enabled by default). -->
+<!-- ![Quick_Order_Setup](./images/quick-7.png) -->
+e. **Enable Image Lightbox**: Enable image lightbox for larger image views.
+
+f. **Enable Stock Availability**: Displays "In Stock" or "Out of Stock" labels in the Quick Order for products with inventory tracking enabled in Shopify.
+g. **Enable Stock Quantity**: Displays the available stock quantity for each product in the Product Table, provided inventory tracking is enabled in Shopify.
+<!-- ![Quick_Order_Setup](./images/quick-8.png) -->
+h. **Products per Page**: Define the number of products to display per page.
+![Quick_Order_Setup](./images/CreateProductTable.png)
 
 ### b. **Products Tab**
 
@@ -120,7 +123,7 @@ You can easily embed your product table anywhere in your store by adding its uni
   ![Quick_Order_Setup](./images/quick-33.png)
 
 3. You will be taken to the Product Table Configuration screen, where you can make changes.
-  ![Quick_Order_Setup](./images/quick-35.png)
+![Quick_Order_Setup](./images/edit_prod.png)
 
 ### Delete Product Table
 

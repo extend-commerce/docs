@@ -153,6 +153,21 @@ Click this button to apply your Quick Order configurations.
 > **Tip:**
 > The maximum allowed size for the CSV file is 5 MB.
 
+#### Catalogue Pricing in Quick Order
+
+> **Tip:**
+> The pre-requisite for this is to ensure that catalogues are created and configured in your Shopify admin.
+
+Once the catalogues are set up, the pricing will automatically sync with Quick Order.
+Your customers will see the catalogue pricing directly in the Quick Order table during their shopping experience.
+
+![Quick_Order_Setup](./images/Catalogue_Pricing.gif)
+
+#### Sorting by SKU or Product Name
+Your customer can also sort products by SKU or Product Name from the quick order.
+![Quick_Order_Setup](./images/SKU_Sorting.gif)
+
+
 Once you've completed the Quick Order setup, you're ready to start using the feature on your store. Quick Order feature is designed to streamline bulk purchasing, making it easier for your customers to add products to their cart quickly. By following the setup steps, you can ensure a smooth and efficient ordering process.
 
 ***
