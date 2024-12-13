@@ -26,7 +26,6 @@ Once on the **Product Table Settings** page:
 ### i. **General Settings**
 
 a. **Description**: Enter a brief description of the table’s purpose.
-
 b. **Variants Display Mode**: Choose how variants will display:
   - **Ungrouped**: All variants are displayed as separate items.
   - **Grouped**: A variant selection column is added, allowing customers to choose and add specific variants to their cart.
