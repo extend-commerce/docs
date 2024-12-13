@@ -38,7 +38,7 @@ g. **Enable Stock Quantity**: Displays the available stock quantity for each pro
 h. **Products per Page**: Define the number of products to display per page.
 ![Quick_Order_Setup](./images/CreateProductTable.png)
 
-### b. **Products Tab**
+### ii. **Products Tab**
 
 - **Display Product Selection**: Choose whether to display all products or only specific collections.
 - **Selected Collections**: If opting for specific products, choose collections from a dropdown menu.
@@ -47,7 +47,7 @@ h. **Products per Page**: Define the number of products to display per page.
 - **Preview Products**: Click the eye icon to preview products within each collection.
 ![Quick_Order_Setup](./images/quick-12.png)
 
-### c. **Columns & Filters**
+### iii. **Columns & Filters**
 
 - **Available Columns**: Select which columns to display from available product attributes, such as:
   - Product Type, Status, Tags, Vendor, Barcode, Compare at Price, Price, SKU, Published At, Category, Inventory Quantity, Tax Code, Taxable.
@@ -57,7 +57,7 @@ h. **Products per Page**: Define the number of products to display per page.
 - **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.
   ![Quick_Order_Setup](./images/quick-15.gif)
 
-### d. **Appearance**
+### iv. **Appearance**
 
 - **Color Palette**: Choose colors for table elements like headings, buttons, and fonts.
 - **Save Palette**: Save your customized palette; all elements will update to match.
