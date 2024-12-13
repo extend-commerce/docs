@@ -79,7 +79,7 @@ h. **Products per Page**: Define the number of products to display per page.
 - **Paste CSV Content**: Paste CSV data directly into the text editor.
   ![Quick_Order_Setup](./images/quick-18.png)
 
-## 6. **Save Settings**
+## 6. **Save Settings for Quick Order**
 
 Click this button to apply your Quick Order configurations.
 ![Quick_Order_Setup](./images/quick-19.png)
