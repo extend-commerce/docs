@@ -64,7 +64,7 @@ h. **Products per Page**: Define the number of products to display per page.
 - **Restore Default**: Reset to the default color palette if needed.
   ![Quick_Order_Setup](./images/quick-16.gif)
 
-## 4. **Save Settings**
+## 4. **Save Settings For Product(s) Table**
 
 - **Save & Publish**: Sets the product table to Active status, allowing it to be added to any part of your store outside of Quick Order if needed. The table will be fully accessible within your store.
 - **Save as Draft**: Sets the product table to Draft status, making it unavailable for standalone use on the store until published.
