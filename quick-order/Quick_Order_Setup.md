@@ -25,17 +25,17 @@ Once on the **Product Table Settings** page:
 
 ### i. **General Settings**
 
-a. **Description**: Enter a brief description of the table’s purpose.
+a. **Description**: Enter a brief description of the table’s purpose.<br/>
 b. **Variants Display Mode**: Choose how variants will display:
   - **Ungrouped**: All variants are displayed as separate items.
   - **Grouped**: A variant selection column is added, allowing customers to choose and add specific variants to their cart.
-  - **Folded**: Variants are hidden under a parent product until clicked, displaying variants in an accordion-style view.
-c. **Enable Search**: Allows customers to search for products within the table.
-d. **Enable Filters**: Provides customers with filter options for more intuitive browsing.
-e. **Enable Image Lightbox**: Enable image lightbox for larger image views.
-f. **Enable Stock Availability**: Displays "In Stock" or "Out of Stock" labels in the Quick Order for products with inventory tracking enabled in Shopify.
-g. **Enable Stock Quantity**: Displays the available stock quantity for each product in the Product Table, provided inventory tracking is enabled in Shopify.
-h. **Products per Page**: Define the number of products to display per page.
+  - **Folded**: Variants are hidden under a parent product until clicked, displaying variants in an accordion-style view.<br/>
+c. **Enable Search**: Allows customers to search for products within the table.<br/>
+d. **Enable Filters**: Provides customers with filter options for more intuitive browsing.<br/>
+e. **Enable Image Lightbox**: Enable image lightbox for larger image views.<br/>
+f. **Enable Stock Availability**: Displays "In Stock" or "Out of Stock" labels in the Quick Order for products with inventory tracking enabled in Shopify.<br/>
+g. **Enable Stock Quantity**: Displays the available stock quantity for each product in the Product Table, provided inventory tracking is enabled in Shopify.<br/>
+h. **Products per Page**: Define the number of products to display per page.<br/>
 ![Quick_Order_Setup](./images/CreateProductTable.png)
 
 ### ii. **Products Tab**
