@@ -33,8 +33,8 @@ b. **Variants Display Mode**: Choose how variants will display:
 c. **Enable Search**: Allows customers to search for products within the table.<br/>
 d. **Enable Filters**: Provides customers with filter options for more intuitive browsing.<br/>
 e. **Enable Buying**: Check this box to allow adding products to the cart. This unlocks the **Buying Experience** option with two modes:</br> 
-  - **Cart Button**: Adds an "Add to Cart" button. Choose placement at the item, table, or both levels.  
-  - **Auto Add**: Automatically adds products to the cart when quantities are updated.
+  - **Cart Button**: Adds an "Add to Cart" button. Choose placement at the item, table, or both levels.
+  - **Auto Add**: Automatically adds products to the cart when quantities are updated.</br>
 f. **Enable Image Lightbox**: Enable image lightbox for larger image views.<br/>
 g. **Enable Stock Availability**: Displays "In Stock" or "Out of Stock" labels in the Quick Order for products with inventory tracking enabled in Shopify.<br/> 
 h. **Enable Stock Quantity**: Displays the available stock quantity for each product in the Product Table, provided inventory tracking is enabled in Shopify.<br/>
@@ -100,7 +100,7 @@ Click this button to apply your Quick Order configurations.
 - Save the theme customization to make Quick Order visible on your storefront.
   ![Quick_Order_Setup](./images/quick-31.png)
 
-### Using the Quick Order
+## Using the Quick Order
 
 - On the store, an **Upload CSV** button will appear. 
   ![Quick_Order_Setup](./images/quick-23.png)

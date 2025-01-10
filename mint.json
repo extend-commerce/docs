@@ -74,6 +74,14 @@
       ]
     },
     {
+      "group": "Features",
+      "pages": [
+        "quick-order/Catalog_Pricing",
+        "quick-order/Metafields",
+        "quick-order/Custom_CSS"
+      ]
+    },
+    {
       "group": "Release Notes",
       "pages": [
         "quick-order/release_notes_1-1",
