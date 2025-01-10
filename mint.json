@@ -76,9 +76,9 @@
     {
       "group": "Features",
       "pages": [
-        "quick-order/Catalog_Pricing",
-        "quick-order/Metafields",
-        "quick-order/Custom_CSS"
+        "quick-order/Catalog_Pricing_Integration_in_Quick_Order",
+        "quick-order/Metafields_Integration_in_Quick_Order",
+        "quick-order/Customizing_Thumbnails_in_Quick_Order"
       ]
     },
     {
