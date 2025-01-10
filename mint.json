@@ -65,9 +65,9 @@
   "navigation": [
    
     {
-      "group": "Quick Order",
+      "group": "Getting Started",
       "pages": [
-        "quick-order/Getting_Started",
+        "quick-order/Installation",
         "quick-order/Dashboard_Overview",
         "quick-order/Quick_Order_Setup",
         "quick-order/Product_Tables_Setup_copy"       
