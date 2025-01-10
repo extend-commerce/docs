@@ -100,7 +100,7 @@ Click this button to apply your Quick Order configurations.
 - Save the theme customization to make Quick Order visible on your storefront.
   ![Quick_Order_Setup](./images/quick-31.png)
 
-  ### Sorting from the Quick Order
+## Sorting from the Quick Order
 
 Your customers can also sort products by SKU, Product Nam or Product Price from the quick order.  
 ![Quick_Order_Setup](./images/SKU_Sorting.gif)
