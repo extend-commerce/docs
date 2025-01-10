@@ -21,7 +21,7 @@ You can now customize the CSS for the product thumbnails that appear in **Quick 
 
 6. The changes will be immediately visible in the theme customizer, allowing you to preview the adjustments in real-time.
 7. Once satisfied with the changes, click Save to apply the updates to your store.
-  ![Quick_Order_Setup](./images/custom_css_1.gif)
+  ![Quick_Order_Setup](./images/custom_css.gif)
 
 
 Once you add your custom CSS, the product thumbnails in Quick Order or Product Table will reflect your style preferences.
