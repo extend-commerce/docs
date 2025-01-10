@@ -40,7 +40,7 @@ h. **Enable Stock Quantity**: Displays the available stock quantity for each pro
 i. **Products per Page**: Define the number of products to display per page.
 ![Quick_Order_Setup](./images/CreateProductTable.png)
 
-### ii. **Products Tab**
+### ii **Products Tab**
 
 - **Display Product Selection**: Choose whether to display all products or only specific collections.
 - **Selected Collections**: If opting for specific products, choose collections from a dropdown menu.
