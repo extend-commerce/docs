@@ -1,5 +1,3 @@
-# Customizing Thumbnails in Quick Order
-
 You can now customize the CSS for the product thumbnails that appear in **Quick Order** or the **Product Table** on your store. Here's how to do it:
 
 ## Steps to Customize Thumbnails:
