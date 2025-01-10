@@ -6,7 +6,7 @@ Get ready for a whole new level of convenience and customization! We've been lis
 
 ## 1. Custom CSS for Thumbnails
 Want your product thumbnails to match your store's vibe? Now you can customize the CSS for thumbnails in Quick Order! Give your images a little makeover and make them pop in a way that fits your style.
- ![Quick_Order_Setup](./images/custom_css.gif)
+ ![Quick_Order_Setup](./images/custom_css_1.gif)
 
 ## 2. Product and Variant-Specific Metafields Integration
 We’ve taken it up a notch with metafields integration; Now you can display product and variant-specific data directly in Quick Order. Whether it’s special info, custom tags, or extra details, you’ve got it at your fingertips.
