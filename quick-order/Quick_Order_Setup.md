@@ -2,7 +2,7 @@
 title: "Quick Order Setup"
 ---
 
-This guide walks you through setting up the Quick Order feature for bulk purchasing. With customizable product tables and CSV uploads, customers can easily add products to their cart. Additionally, Quick Order supports Catalog Pricing, Metafields Integration, and Custom CSS for enhanced functionality. Follow the steps below to get started:
+This guide walks you through setting up the Quick Order feature for bulk purchasing. With customizable product tables and [CSV uploads](https://docs.extendcommerce.com/quick-order/Bulk_Upload_via_CSV), customers can easily add products to their cart. Additionally, Quick Order supports [Catalog Pricing](https://docs.extendcommerce.com/quick-order/Catalog_Pricing_Integration), [Metafields Integration](https://docs.extendcommerce.com/quick-order/MetaFields_Integration), and [Custom CSS](https://docs.extendcommerce.com/quick-order/Customizing_Thumbnails) for thumbnails. Follow the steps below to get started:
 
 ## 1. **Enable Quick Order**
 
