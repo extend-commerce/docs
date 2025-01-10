@@ -76,6 +76,7 @@
     {
       "group": "Features",
       "pages": [
+        "quick-order/Bulk_Upload_via_CSV",
         "quick-order/Catalog_Pricing_Integration",
         "quick-order/MetaFields_Integration",
         "quick-order/Customizing_Thumbnails"
