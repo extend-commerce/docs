@@ -27,19 +27,20 @@ b. **Variants Display Mode**: Choose how variants will display:
   - **Grouped**: A variant selection column is added, allowing customers to choose and add specific variants to their cart.
   - **Folded**: Variants are hidden under a parent product until clicked, displaying variants in an accordion-style view.
 
-
 c. **Enable Search**: Allows customers to search for products within the table.
 
 d. **Enable Filters**: Provides customers with filter options for more intuitive browsing.
+e. **Enable Buying**: Check this box to allow adding products to the cart. This unlocks the **Buying Experience** option with two modes:</br> 
+  - **Cart Button**: Adds an "Add to Cart" button. Choose placement at the item, table, or both levels.  
+  - **Auto Add**: Automatically adds products to the cart when quantities are updated.
+f. **Enable Image Lightbox**: Enable image lightbox for larger image views.
 
-e. **Enable Image Lightbox**: Enable image lightbox for larger image views.
-
-f. **Enable Stock Availability**: Displays "In Stock" or "Out of Stock" labels in the Quick Order for products with inventory tracking enabled in Shopify.
-g. **Enable Stock Quantity**: Displays the available stock quantity for each product in the Product Table, provided inventory tracking is enabled in Shopify.
-h. **Products per Page**: Define the number of products to display per page.
+g. **Enable Stock Availability**: Displays "In Stock" or "Out of Stock" labels in the Quick Order for products with inventory tracking enabled in Shopify.
+h. **Enable Stock Quantity**: Displays the available stock quantity for each product in the Product Table, provided inventory tracking is enabled in Shopify.
+i. **Products per Page**: Define the number of products to display per page.
 ![Quick_Order_Setup](./images/CreateProductTable.png)
 
-### b. **Products Tab**
+### ii. **Products Tab**
 
 - **Display Product Selection**: Choose whether to display all products or only specific collections.
 - **Selected Collections**: If opting for specific products, choose collections from a dropdown menu.
@@ -48,24 +49,24 @@ h. **Products per Page**: Define the number of products to display per page.
 - **Preview Products**: Click the eye icon to preview products within each collection.
 ![Quick_Order_Setup](./images/quick-12.png)
 
-### c. **Columns & Filters**
+### iii. **Columns & Filters**
 
 - **Available Columns**: Select which columns to display from available product attributes, such as:
   - Product Type, Status, Tags, Vendor, Barcode, Compare at Price, Price, SKU, Published At, Category, Inventory Quantity, Tax Code, Taxable.
   ![Quick_Order_Setup](./images/quick-13.png)
-- **Label and Filters**: Enter a label name that will be displayed for the column in the table, and check the box under "Filters" to enable filtering based on that column’s values.
+- **Labels, Filters and Visibility**: Add a label name for the column, enable filtering by checking the "Filters" box, and toggle the "Visible" box to show or hide the column in the table.
   ![Quick_Order_Setup](./images/quick-14.png)
 - **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.
   ![Quick_Order_Setup](./images/quick-15.gif)
 
-### d. **Appearance**
+### iv. **Appearance**
 
 - **Color Palette**: Choose colors for table elements like headings, buttons, and fonts.
 - **Save Palette**: Save your customized palette; all elements will update to match.
 - **Restore Default**: Reset to the default color palette if needed.
   ![Quick_Order_Setup](./images/quick-16.gif)
 
-## 4. **Save Settings**
+## v. **Save Settings**
 
 - **Save & Publish**: Sets the product table to Active status, allowing it to be added to any part of your store outside of Quick Order if needed. The table will be fully accessible within your store.
 - **Save as Draft**: Sets the product table to Draft status, making it unavailable for standalone use on the store until published.

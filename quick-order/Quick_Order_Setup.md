@@ -2,7 +2,7 @@
 title: "Quick Order Setup"
 ---
 
-This guide walks you through setting up the Quick Order feature for bulk purchasing, enabling customers to easily add products to their cart via customizable product tables and CSV uploads. Follow the steps below to get started:
+This guide walks you through setting up the Quick Order feature for bulk purchasing. With customizable product tables and CSV uploads, customers can easily add products to their cart. Additionally, Quick Order supports Catalog Pricing, Metafields Integration, and Custom CSS for enhanced functionality. Follow the steps below to get started:
 
 ## 1. **Enable Quick Order**
 
@@ -32,11 +32,14 @@ b. **Variants Display Mode**: Choose how variants will display:
   - **Folded**: Variants are hidden under a parent product until clicked, displaying variants in an accordion-style view.<br/>
 c. **Enable Search**: Allows customers to search for products within the table.<br/>
 d. **Enable Filters**: Provides customers with filter options for more intuitive browsing.<br/>
-e. **Enable Image Lightbox**: Enable image lightbox for larger image views.<br/>
-f. **Enable Stock Availability**: Displays "In Stock" or "Out of Stock" labels in the Quick Order for products with inventory tracking enabled in Shopify.<br/>
-g. **Enable Stock Quantity**: Displays the available stock quantity for each product in the Product Table, provided inventory tracking is enabled in Shopify.<br/>
-h. **Products per Page**: Define the number of products to display per page.<br/>
-![Quick_Order_Setup](./images/CreateProductTable.png)
+e. **Enable Buying**: Check this box to allow adding products to the cart. This unlocks the **Buying Experience** option with two modes:</br> 
+  - **Cart Button**: Adds an "Add to Cart" button. Choose placement at the item, table, or both levels.  
+  - **Auto Add**: Automatically adds products to the cart when quantities are updated.
+f. **Enable Image Lightbox**: Enable image lightbox for larger image views.<br/>
+g. **Enable Stock Availability**: Displays "In Stock" or "Out of Stock" labels in the Quick Order for products with inventory tracking enabled in Shopify.<br/> 
+h. **Enable Stock Quantity**: Displays the available stock quantity for each product in the Product Table, provided inventory tracking is enabled in Shopify.<br/>
+i. **Products per Page**: Define the number of products to display per page.<br/>
+![Quick_Order_Setup](./images/General_Settings.gif)
 
 ### ii. **Products Tab**
 
@@ -49,10 +52,9 @@ h. **Products per Page**: Define the number of products to display per page.<br/
 
 ### iii. **Columns & Filters**
 
-- **Available Columns**: Select which columns to display from available product attributes, such as:
-  - Product Type, Status, Tags, Vendor, Barcode, Compare at Price, Price, SKU, Published At, Category, Inventory Quantity, Tax Code, Taxable.
+- **Available Columns**: Choose from a range of product attributes to display, including metafields associated with each product.
   ![Quick_Order_Setup](./images/quick-13.png)
-- **Label and Filters**: Enter a label name that will be displayed for the column in the table, and check the box under "Filters" to enable filtering based on that column’s values.
+- **Labels, Filters and Visibility**: Add a label name for the column, enable filtering by checking the "Filters" box, and toggle the "Visible" box to show or hide the column in the table.
   ![Quick_Order_Setup](./images/quick-14.png)
 - **Column Management**: Rearrange columns by dragging them into your preferred order, and delete unnecessary columns. Note that the "Title" column is pre-selected and mandatory.
   ![Quick_Order_Setup](./images/quick-15.gif)
@@ -138,16 +140,6 @@ Click this button to apply your Quick Order configurations.
 
 > **Tip:**
 > The maximum allowed size for the CSV file is 5 MB.
-
-#### Catalogue Pricing in Quick Order
-
-> **Tip:**
-> The pre-requisite for this is to ensure that catalogues are created and configured in your Shopify admin.
-
-Once the catalogues are set up, the pricing will automatically sync with Quick Order.
-Your customers will see the catalogue pricing directly in the Quick Order table during their shopping experience.
-
-![Quick_Order_Setup](./images/Catalogue_Pricing.gif)
 
 #### Sorting by SKU or Product Name
 Your customer can also sort products by SKU or Product Name from the quick order.
