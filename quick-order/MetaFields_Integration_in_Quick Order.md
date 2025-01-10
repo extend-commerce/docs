@@ -1,7 +1,4 @@
-# **MetaFields Integration in Quick Order**  
 With Quick Order, you can seamlessly integrate product and variant metafields into your order tables, enhancing functionality and customization.  
-
----
 
 ## **Prerequisites**  
 Before you get started, ensure the following:  
